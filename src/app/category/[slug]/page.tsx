@@ -3,8 +3,9 @@
 import React, { useMemo } from 'react';
 import { Anton, Inter } from 'next/font/google';
 import { ArrowLeft } from 'lucide-react';
-import { getAllRecipes } from '@/data/recipe-data';
+import { getAllRecipes, getIngredientDB } from '@/data/recipe-data';
 import type { Recipe } from '@/data/recipe-data';
+import { calculateIngredientNutrients, sumNutrients, divideNutrients, calculatePERatio } from '@/lib/nutrition-engine';
 
 const anton = Anton({
   weight: '400',
@@ -53,36 +54,24 @@ function getAllergenBadges(recipe: Recipe): Allergen[] {
   return badges;
 }
 
+const ingredientDB = getIngredientDB();
+
 function estimateNutrition(recipe: Recipe): { protein: number; calories: number; peRatio: number } {
-  // Rough estimation from ingredients — will be replaced with full nutrition engine
-  const totalProtein = recipe.ingredients.reduce((sum, ing) => {
-    // Simple heuristic based on common ingredient protein densities
-    if (ing.id.includes('protein') || ing.id.includes('egg-white-protein')) return sum + (ing.amountG * 0.8);
-    if (ing.id.includes('egg-whites')) return sum + (ing.amountG * 0.109);
-    if (ing.id.includes('chicken') || ing.id.includes('beef') || ing.id.includes('turkey')) return sum + (ing.amountG * 0.22);
-    if (ing.id.includes('yogurt')) return sum + (ing.amountG * 0.02);
-    if (ing.id.includes('oat-flour')) return sum + (ing.amountG * 0.147);
-    return sum;
-  }, 0);
+  const profiles = recipe.ingredients.map((ing) => {
+    const dbEntry = ingredientDB[ing.id];
+    if (!dbEntry) return null;
+    return calculateIngredientNutrients(dbEntry.macrosPer100g, ing.amountG);
+  }).filter(Boolean) as import('@/lib/nutrition-engine').NutrientProfile[];
 
-  const totalCalories = recipe.ingredients.reduce((sum, ing) => {
-    if (ing.id.includes('protein')) return sum + (ing.amountG * 3.75);
-    if (ing.id.includes('egg-whites')) return sum + (ing.amountG * 0.52);
-    if (ing.id.includes('chicken') || ing.id.includes('beef')) return sum + (ing.amountG * 1.3);
-    if (ing.id.includes('oat-flour') || ing.id.includes('oat')) return sum + (ing.amountG * 4.04);
-    if (ing.id.includes('yogurt')) return sum + (ing.amountG * 0.75);
-    if (ing.id.includes('banana') || ing.id.includes('apple')) return sum + (ing.amountG * 0.52);
-    if (ing.id.includes('bread')) return sum + (ing.amountG * 2.5);
-    if (ing.id.includes('blueberries')) return sum + (ing.amountG * 0.57);
-    return sum;
-  }, 0);
+  const perRecipe = sumNutrients(profiles);
+  const perServing = divideNutrients(perRecipe, recipe.servings || 1);
+  const peRatio = calculatePERatio(perServing);
 
-  const perServing = recipe.servings || 1;
-  const protein = Math.round(totalProtein / perServing);
-  const calories = Math.round(totalCalories / perServing);
-  const peRatio = calories > 0 ? parseFloat(((protein * 4 / calories) * 10).toFixed(1)) : 0;
-
-  return { protein, calories, peRatio };
+  return {
+    protein: Math.round(perServing.protein),
+    calories: perServing.calories,
+    peRatio,
+  };
 }
 
 export default function CategoryPage({ params }: { params: { slug: string } }) {
