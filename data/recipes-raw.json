@@ -106,6 +106,30 @@
         "amountG": null,
         "displayUS": "2 slices (up to 80 cal each)",
         "category": "dry"
+      },
+      {
+        "name": "sweetener",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "cinnamon",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "vanilla extract",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -290,6 +314,36 @@
         "amountG": null,
         "displayUS": "2 slices (up to 80 cal each)",
         "category": "dry"
+      },
+      {
+        "name": "sweetener",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "cinnamon",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "vanilla extract",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "blueberries",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -426,8 +480,32 @@
       {
         "name": "certified gluten-free bread",
         "amountG": null,
-        "displayUS": "2 slices or certified gluten-free bread of choice (140 cal)",
+        "displayUS": "2 slices certified gluten-free bread OR certified gluten-free bread of choice (140 calories)",
         "category": "dry"
+      },
+      {
+        "name": "sweetener",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "cinnamon",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "vanilla extract",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -1974,6 +2052,42 @@
         "amountG": null,
         "displayUS": "4 slices (up to 80 cal each)",
         "category": "dry"
+      },
+      {
+        "name": "sweetener",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "cinnamon",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "vanilla extract",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "blueberries",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "low-calorie syrup",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -3435,16 +3549,52 @@
     "cookTime": "5-10 min",
     "ingredients": [
       {
-        "name": "chicken breast, boneless and skinless (or extra-lean ground meat)",
+        "name": "chicken breast, boneless and skinless OR extra-lean ground turkey OR extra-lean ground beef/steak",
         "amountG": 60,
         "displayUS": "60g (measured cooked)",
-        "category": "wet"
+        "category": "dry"
       },
       {
         "name": "low-carb high-fiber certified gluten-free tortillas",
         "amountG": null,
-        "displayUS": "2 (70 cal each)",
+        "displayUS": "2 tortillas (70 cal each)",
         "category": "dry"
+      },
+      {
+        "name": "dairy-free cheese alternative",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "veggies of choice",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "salt & pepper",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "dairy-free sour cream alternative",
+        "amountG": null,
+        "displayUS": "for dipping (optional)",
+        "category": "wet"
+      },
+      {
+        "name": "salsa",
+        "amountG": null,
+        "displayUS": "for dipping (optional)",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -3571,9 +3721,45 @@
     "cookTime": "3 min",
     "ingredients": [
       {
-        "name": "gluten-free flatbread or protein flatbread of choice",
+        "name": "gluten-free flatbread Protein UP Flatbread or protein flatbread of choice",
         "amountG": null,
-        "displayUS": "1 (110 cal)",
+        "displayUS": "1 flatbread (110 cal)",
+        "category": "dry"
+      },
+      {
+        "name": "avocado",
+        "amountG": null,
+        "displayUS": "1 avocado",
+        "category": "wet"
+      },
+      {
+        "name": "tomatoes",
+        "amountG": null,
+        "displayUS": "diced, to taste",
+        "category": "wet"
+      },
+      {
+        "name": "onions",
+        "amountG": null,
+        "displayUS": "diced, to taste",
+        "category": "wet"
+      },
+      {
+        "name": "jalapenos",
+        "amountG": null,
+        "displayUS": "diced, to taste",
+        "category": "wet"
+      },
+      {
+        "name": "lime",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "salt & pepper",
+        "amountG": null,
+        "displayUS": "to taste",
         "category": "dry"
       }
     ],
@@ -3687,6 +3873,30 @@
         "amountG": null,
         "displayUS": "2 slices (up to 80 cal each)",
         "category": "dry"
+      },
+      {
+        "name": "lean ground beef",
+        "amountG": null,
+        "displayUS": "1 serving",
+        "category": "wet"
+      },
+      {
+        "name": "gravy",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "spices of choice",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "veggies (e.g. peas)",
+        "amountG": null,
+        "displayUS": "side serving",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -3734,6 +3944,30 @@
         "amountG": null,
         "displayUS": "2 slices (up to 80 cal each)",
         "category": "dry"
+      },
+      {
+        "name": "chicken breast",
+        "amountG": 80,
+        "displayUS": "80g per slice",
+        "category": "wet"
+      },
+      {
+        "name": "gravy",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "spices of choice",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "veggies (e.g. peas)",
+        "amountG": null,
+        "displayUS": "side serving",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -3783,6 +4017,30 @@
         "amountG": null,
         "displayUS": "2 slices (160 cal)",
         "category": "dry"
+      },
+      {
+        "name": "dairy-free cheese alternative",
+        "amountG": null,
+        "displayUS": "1 slice per bread slice",
+        "category": "dry"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "salt & pepper",
+        "amountG": null,
+        "displayUS": "to taste (optional)",
+        "category": "dry"
+      },
+      {
+        "name": "no sugar-added ketchup",
+        "amountG": null,
+        "displayUS": "to taste (optional)",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -3842,7 +4100,7 @@
       {
         "name": "whole eggs",
         "amountG": null,
-        "displayUS": "2",
+        "displayUS": "2 whole eggs",
         "category": "wet"
       },
       {
@@ -3850,6 +4108,24 @@
         "amountG": null,
         "displayUS": "3 slices (240 cal)",
         "category": "dry"
+      },
+      {
+        "name": "dairy-free cheese alternative",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "dry"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "condiments of choice",
+        "amountG": null,
+        "displayUS": "as desired",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -3899,7 +4175,19 @@
       {
         "name": "certified gluten-free bread",
         "amountG": null,
-        "displayUS": "2 slices (or high-certified gluten-free bread of choice, 140 cal)",
+        "displayUS": "2 slices",
+        "category": "dry"
+      },
+      {
+        "name": "dairy-free butter alternative",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "dairy-free cheese alternative",
+        "amountG": null,
+        "displayUS": "as needed",
         "category": "dry"
       }
     ],
@@ -3938,7 +4226,25 @@
       {
         "name": "certified gluten-free bread",
         "amountG": null,
-        "displayUS": "2 slices (or high-certified gluten-free bread of choice, 140 cal)",
+        "displayUS": "2 slices",
+        "category": "dry"
+      },
+      {
+        "name": "dairy-free butter alternative",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "ham",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "dairy-free cheese alternative",
+        "amountG": null,
+        "displayUS": "as needed",
         "category": "dry"
       }
     ],
@@ -4204,6 +4510,24 @@
         "amountG": null,
         "displayUS": "1 1/2 weiners (70 cal)",
         "category": "wet"
+      },
+      {
+        "name": "certified gluten-free bread",
+        "amountG": null,
+        "displayUS": "slices for bun",
+        "category": "dry"
+      },
+      {
+        "name": "mayonnaise",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "condiments of choice (mustard, horseradish, sugar-free ketchup)",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -4239,10 +4563,34 @@
     "cookTime": "3 min",
     "ingredients": [
       {
-        "name": "certified gluten-free bread (or high-certified gluten-free bread of choice)",
+        "name": "certified gluten-free bread",
         "amountG": null,
-        "displayUS": "2 slices (140 cal)",
+        "displayUS": "2 slices (140 cal each)",
         "category": "dry"
+      },
+      {
+        "name": "chicken or tuna",
+        "amountG": null,
+        "displayUS": "1 serving",
+        "category": "wet"
+      },
+      {
+        "name": "mayonnaise",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "lettuce",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "tomato",
+        "amountG": null,
+        "displayUS": "sliced, to taste",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -4282,10 +4630,28 @@
     "cookTime": "3 min",
     "ingredients": [
       {
-        "name": "certified gluten-free bread (or high-certified gluten-free bread of choice)",
+        "name": "certified gluten-free bread",
         "amountG": null,
-        "displayUS": "2 slices (140 cal)",
+        "displayUS": "2 slices (140 cal each)",
         "category": "dry"
+      },
+      {
+        "name": "sunflower seed butter powder",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "dry"
+      },
+      {
+        "name": "water",
+        "amountG": null,
+        "displayUS": "~1 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "low-calorie jam",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -4321,10 +4687,28 @@
     "cookTime": "3 min",
     "ingredients": [
       {
-        "name": "certified gluten-free bread (or high-certified gluten-free bread of choice)",
+        "name": "certified gluten-free bread",
         "amountG": null,
-        "displayUS": "2 slices (140 cal)",
+        "displayUS": "2 slices (140 cal each)",
         "category": "dry"
+      },
+      {
+        "name": "sunflower seed butter powder",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "dry"
+      },
+      {
+        "name": "water",
+        "amountG": null,
+        "displayUS": "~1 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "banana",
+        "amountG": null,
+        "displayUS": "sliced, to taste",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -4448,7 +4832,7 @@
     "cookTime": "10 min",
     "ingredients": [
       {
-        "name": "chicken breast, boneless and skinless, raw",
+        "name": "chicken breast, boneless and skinless (raw)",
         "amountG": 110,
         "displayUS": "4 oz",
         "category": "wet"
@@ -4456,7 +4840,61 @@
       {
         "name": "low-carb certified gluten-free tortilla wraps",
         "amountG": null,
-        "displayUS": "2 (110 cal each, 220 cal total)",
+        "displayUS": "2 wraps (110 cal each, 220 cal total)",
+        "category": "dry"
+      },
+      {
+        "name": "mango",
+        "amountG": null,
+        "displayUS": "diced, for relish",
+        "category": "wet"
+      },
+      {
+        "name": "pineapple",
+        "amountG": null,
+        "displayUS": "diced, for relish",
+        "category": "wet"
+      },
+      {
+        "name": "cilantro",
+        "amountG": null,
+        "displayUS": "chopped, for relish",
+        "category": "wet"
+      },
+      {
+        "name": "onion",
+        "amountG": null,
+        "displayUS": "diced, for relish",
+        "category": "wet"
+      },
+      {
+        "name": "red cabbage",
+        "amountG": null,
+        "displayUS": "shredded, for slaw",
+        "category": "wet"
+      },
+      {
+        "name": "green cabbage",
+        "amountG": null,
+        "displayUS": "shredded, for slaw",
+        "category": "wet"
+      },
+      {
+        "name": "carrots",
+        "amountG": null,
+        "displayUS": "shredded, for slaw",
+        "category": "wet"
+      },
+      {
+        "name": "rice wine vinegar",
+        "amountG": null,
+        "displayUS": "splash, for slaw",
+        "category": "wet"
+      },
+      {
+        "name": "salt & pepper",
+        "amountG": null,
+        "displayUS": "to taste",
         "category": "dry"
       }
     ],
@@ -5092,7 +5530,31 @@
       {
         "name": "Crepini wraps or equivalent egg white wrap of choice",
         "amountG": null,
-        "displayUS": "4 (30 cal each)",
+        "displayUS": "4 wraps (30 cal each)",
+        "category": "dry"
+      },
+      {
+        "name": "cooked cauliflower rice",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "egg whites",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "thick unsweetened dairy-free yogurt",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "flour, guar gum/xanthan, garlic powder, salt, oregano, basil",
+        "amountG": null,
+        "displayUS": "dry mix ingredients",
         "category": "dry"
       }
     ],
@@ -5161,16 +5623,46 @@
     "cookTime": "10 min",
     "ingredients": [
       {
-        "name": "gluten-free flatbread or thin pizza crusts of choice",
+        "name": "gluten-free flatbread Rustic White Artisan Thin Pizza Crust or thin pizza crusts of choice",
         "amountG": null,
-        "displayUS": "2 (260 cal)",
+        "displayUS": "2 crusts (260 cal)",
         "category": "dry"
       },
       {
         "name": "dairy-free cheese alternative",
         "amountG": null,
-        "displayUS": "2 slices or 38g (60 cal)",
+        "displayUS": "2 slices OR 38g shredded (60 cal)",
         "category": "dry"
+      },
+      {
+        "name": "ground bison",
+        "amountG": null,
+        "displayUS": "1 serving",
+        "category": "wet"
+      },
+      {
+        "name": "onions",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "mushrooms",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "peppers",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -5291,8 +5783,56 @@
       {
         "name": "dairy-free cheese alternative",
         "amountG": null,
-        "displayUS": "8 slices (or 152g shredded, 240 cal)",
+        "displayUS": "8 slices (or 152g shredded) (240 cal)",
         "category": "dry"
+      },
+      {
+        "name": "lean ground turkey",
+        "amountG": null,
+        "displayUS": "1 serving",
+        "category": "wet"
+      },
+      {
+        "name": "garlic",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "onions",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "pasta sauce",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "thick dairy-free yogurt or ricotta dairy-free cheese alternative",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "spinach (thawed and drained)",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "zucchini",
+        "amountG": null,
+        "displayUS": "sliced",
+        "category": "wet"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -5370,14 +5910,68 @@
       {
         "name": "gluten-free lasagna noodles",
         "amountG": null,
-        "displayUS": "9",
+        "displayUS": "9 noodles",
         "category": "dry"
       },
       {
         "name": "dairy-free cheese alternative",
         "amountG": null,
-        "displayUS": "8 slices (or 152g shredded, 240 cal)",
+        "displayUS": "8 slices (or 152g shredded) (240 cal)",
         "category": "dry"
+      },
+      {
+        "name": "lean ground turkey",
+        "amountG": null,
+        "displayUS": "1 serving",
+        "category": "wet"
+      },
+      {
+        "name": "garlic",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "onions",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "pasta sauce",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "ricotta dairy-free cheese alternative",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "spinach (thawed and drained)",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "zucchini",
+        "amountG": null,
+        "displayUS": "sliced",
+        "category": "wet"
+      },
+      {
+        "name": "water",
+        "amountG": 80,
+        "displayUS": "1/3 cup",
+        "category": "wet"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -5457,8 +6051,56 @@
       {
         "name": "dairy-free cheese alternative",
         "amountG": null,
-        "displayUS": "8 slices (or 152g shredded, 240 cal)",
+        "displayUS": "8 slices (or 152g shredded) (240 cal)",
         "category": "dry"
+      },
+      {
+        "name": "soy-free plant-based meat",
+        "amountG": null,
+        "displayUS": "1 serving",
+        "category": "wet"
+      },
+      {
+        "name": "garlic",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "onions",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "pasta sauce",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "thick dairy-free yogurt or ricotta dairy-free cheese alternative",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "spinach (thawed and drained)",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "zucchini",
+        "amountG": null,
+        "displayUS": "sliced",
+        "category": "wet"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -5528,14 +6170,68 @@
       {
         "name": "gluten-free lasagna noodles",
         "amountG": null,
-        "displayUS": "9",
+        "displayUS": "9 noodles",
         "category": "dry"
       },
       {
         "name": "dairy-free cheese alternative",
         "amountG": null,
-        "displayUS": "8 slices (or 152g shredded, 240 cal)",
+        "displayUS": "8 slices (or 152g shredded) (240 cal)",
         "category": "dry"
+      },
+      {
+        "name": "soy-free plant-based meat",
+        "amountG": null,
+        "displayUS": "1 serving",
+        "category": "wet"
+      },
+      {
+        "name": "garlic",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "onions",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "pasta sauce (meat sauce)",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "ricotta dairy-free cheese alternative",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "spinach (thawed and drained)",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "zucchini",
+        "amountG": null,
+        "displayUS": "sliced",
+        "category": "wet"
+      },
+      {
+        "name": "water",
+        "amountG": 80,
+        "displayUS": "1/3 cup",
+        "category": "wet"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -6009,6 +6705,30 @@
         "amountG": 125,
         "displayUS": "1/2 cup (up to 60 cal)",
         "category": "wet"
+      },
+      {
+        "name": "chicken",
+        "amountG": null,
+        "displayUS": "1 serving",
+        "category": "wet"
+      },
+      {
+        "name": "veggies of choice",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "spices of choice",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -6067,7 +6787,7 @@
     "cookTime": "16-18 min",
     "ingredients": [
       {
-        "name": "chicken breast, boneless and skinless, raw",
+        "name": "chicken breast, boneless and skinless (raw)",
         "amountG": 440,
         "displayUS": "~15 oz",
         "category": "wet"
@@ -6076,6 +6796,42 @@
         "name": "prosciutto or ham",
         "amountG": 56,
         "displayUS": "4 slices (120 cal)",
+        "category": "wet"
+      },
+      {
+        "name": "red bell peppers",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "spinach",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "wet"
+      },
+      {
+        "name": "garlic",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "water",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "salt, pepper & Italian seasoning",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": null,
+        "displayUS": "as needed",
         "category": "wet"
       }
     ],
@@ -6640,14 +7396,44 @@
       {
         "name": "rice cakes",
         "amountG": null,
-        "displayUS": "6",
+        "displayUS": "6 rice cakes",
         "category": "dry"
       },
       {
         "name": "sliced apples",
         "amountG": null,
-        "displayUS": "3/4 serving ~1 apple",
+        "displayUS": "3/4 serving (~1 apple)",
         "category": "wet"
+      },
+      {
+        "name": "chocolate dairy-free, soy-free protein powder",
+        "amountG": null,
+        "displayUS": "as needed for paste",
+        "category": "dry"
+      },
+      {
+        "name": "sunflower seed butter powder",
+        "amountG": null,
+        "displayUS": "as needed for paste",
+        "category": "dry"
+      },
+      {
+        "name": "water",
+        "amountG": null,
+        "displayUS": "to desired consistency",
+        "category": "wet"
+      },
+      {
+        "name": "sweetener",
+        "amountG": null,
+        "displayUS": "to taste (optional)",
+        "category": "dry"
+      },
+      {
+        "name": "cinnamon",
+        "amountG": null,
+        "displayUS": "for sprinkling",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -8300,6 +9086,30 @@
         "amountG": null,
         "displayUS": "2 bags (~400 cal)",
         "category": "dry"
+      },
+      {
+        "name": "FibrO syrup or IMO syrup of choice",
+        "amountG": null,
+        "displayUS": "as needed (see FibrO Prep)",
+        "category": "wet"
+      },
+      {
+        "name": "chocolate syrup (Walden Farms or similar)",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "dairy-free, soy-free protein powder",
+        "amountG": null,
+        "displayUS": "scoops to taste",
+        "category": "dry"
+      },
+      {
+        "name": "sweetener",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -8347,6 +9157,24 @@
         "amountG": null,
         "displayUS": "1 bag (~200 cal)",
         "category": "dry"
+      },
+      {
+        "name": "FibrO syrup or IMO syrup of choice",
+        "amountG": null,
+        "displayUS": "as needed (see FibrO Prep)",
+        "category": "wet"
+      },
+      {
+        "name": "chocolate syrup (Walden Farms or similar)",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "dairy-free, soy-free protein powder",
+        "amountG": null,
+        "displayUS": "scoops to taste",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -8393,6 +9221,24 @@
         "name": "SmartPop popcorn",
         "amountG": null,
         "displayUS": "1 bag (~200 cal)",
+        "category": "dry"
+      },
+      {
+        "name": "FibrO syrup or IMO syrup of choice",
+        "amountG": null,
+        "displayUS": "as needed (see FibrO Prep)",
+        "category": "wet"
+      },
+      {
+        "name": "sugar-free maple syrup",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "dairy-free, soy-free protein powder",
+        "amountG": null,
+        "displayUS": "scoops to taste",
         "category": "dry"
       }
     ],
@@ -8942,6 +9788,18 @@
         "amountG": 16,
         "displayUS": "1/2 scoop (65 cal)",
         "category": "dry"
+      },
+      {
+        "name": "low-calorie/sugar-free chocolate sauce",
+        "amountG": null,
+        "displayUS": "as desired for topping",
+        "category": "wet"
+      },
+      {
+        "name": "ice cream ingredients (water, salt, guar gum, dairy-free soy-free protein powder, ice)",
+        "amountG": null,
+        "displayUS": "for shake/ice cream base",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -9110,15 +9968,21 @@
         "category": "wet"
       },
       {
-        "name": "plain egg whites (plus compliant flavoring if desired)",
+        "name": "plain egg whites",
         "amountG": 125,
         "displayUS": "1/2 cup",
         "category": "wet"
       },
       {
-        "name": "fruit (up to 50 calories)",
+        "name": "compliant flavoring of choice",
         "amountG": null,
-        "displayUS": "1/2 serving",
+        "displayUS": "if desired",
+        "category": "wet"
+      },
+      {
+        "name": "fruit of choice",
+        "amountG": null,
+        "displayUS": "1/2 serving (up to 50 cal)",
         "category": "wet"
       }
     ],
@@ -9749,7 +10613,56 @@
     "yield": "1 large or 2 small servings",
     "prepTime": "10 min",
     "cookTime": "5 min",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "name": "certified gluten-free high-fiber cereal bar Brownie bar",
+        "amountG": null,
+        "displayUS": "1 bar",
+        "category": "dry"
+      },
+      {
+        "name": "water",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "salt",
+        "amountG": null,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "guar gum",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "Stevia/sweetener",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "fudge dairy-free, soy-free protein powder",
+        "amountG": null,
+        "displayUS": "scoops to taste",
+        "category": "dry"
+      },
+      {
+        "name": "cocoa powder",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "ice",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      }
+    ],
     "instructions": [
       {
         "step": 1,
@@ -9781,7 +10694,56 @@
     "yield": "1 serving",
     "prepTime": "5 min",
     "cookTime": "1 min",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "name": "water",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "salt",
+        "amountG": null,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "guar gum",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "chocolate sunflower seed butter dairy-free, soy-free protein powder",
+        "amountG": null,
+        "displayUS": "scoops to taste",
+        "category": "dry"
+      },
+      {
+        "name": "ice",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "Stevia/sweetener",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "sunflower seed butter powder",
+        "amountG": null,
+        "displayUS": "for drizzle (optional)",
+        "category": "dry"
+      },
+      {
+        "name": "Walden Farms low-calorie syrup",
+        "amountG": null,
+        "displayUS": "for topping (optional)",
+        "category": "wet"
+      }
+    ],
     "instructions": [
       {
         "step": 1,
@@ -9922,7 +10884,68 @@
     "yield": "1 large or 2 small servings",
     "prepTime": "10 min",
     "cookTime": "5 min",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "name": "compliant sugar-free syrup",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "salt",
+        "amountG": null,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "guar gum",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "Stevia/sweetener",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "dairy-free, soy-free vanilla protein powder",
+        "amountG": null,
+        "displayUS": "scoops to taste",
+        "category": "dry"
+      },
+      {
+        "name": "cocoa powder",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "medium instant coffee",
+        "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "ice",
+        "amountG": null,
+        "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "Heath Shell Topping syrup",
+        "amountG": null,
+        "displayUS": "for glaze",
+        "category": "wet"
+      },
+      {
+        "name": "Heath Toffee Bits",
+        "amountG": null,
+        "displayUS": "for topping",
+        "category": "dry"
+      }
+    ],
     "instructions": [
       {
         "step": 1,
