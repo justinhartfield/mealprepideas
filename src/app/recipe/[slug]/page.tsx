@@ -4,9 +4,10 @@ import React, { useState, useMemo, useCallback } from "react";
 import { Anton, Inter } from "next/font/google";
 import { useParams } from "next/navigation";
 import Link from "next/link";
-import { ArrowLeft, Check, ChevronDown, ChevronUp } from "lucide-react";
+import { ArrowLeft, Check, ChevronDown, ChevronUp, ChefHat } from "lucide-react";
 import { PEGauge } from "@/components/pe-gauge";
 import { NutritionPanel } from "@/components/nutrition-panel";
+import { CookingMode } from "@/components/cooking-mode";
 import {
   calculateIngredientNutrients,
   sumNutrients,
@@ -32,6 +33,7 @@ export default function RecipePage() {
   const [unitSystem, setUnitSystem] = useState<"metric" | "us">("metric");
   const [checkedSteps, setCheckedSteps] = useState<number[]>([]);
   const [expandedIngredient, setExpandedIngredient] = useState<string | null>(null);
+  const [showCookingMode, setShowCookingMode] = useState(false);
 
   const recipeNutrition = useMemo(() => {
     if (!recipe) return null;
@@ -188,6 +190,14 @@ export default function RecipePage() {
               </div>
             </section>
 
+            {/* Cooking Mode Button */}
+            <button
+              onClick={() => setShowCookingMode(true)}
+              className="w-full flex items-center justify-center gap-3 py-5 bg-[#1a1a1a] text-white font-black text-sm uppercase tracking-widest hover:bg-[#f59e0b] hover:text-[#1a1a1a] transition-colors"
+            >
+              <ChefHat size={20} /> START COOKING MODE
+            </button>
+
             {/* P:E Gauge */}
             {recipeNutrition && (
               <section>
@@ -242,6 +252,15 @@ export default function RecipePage() {
           </aside>
         </div>
       </div>
+
+      {/* Cooking Mode Overlay */}
+      {showCookingMode && (
+        <CookingMode
+          recipeName={recipe.title}
+          instructions={recipe.instructions}
+          onClose={() => setShowCookingMode(false)}
+        />
+      )}
     </div>
   );
 }
