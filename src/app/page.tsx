@@ -59,6 +59,7 @@ const CATEGORIES = [
   { name: 'Desserts', count: 11, emoji: '🍰', href: '/category/desserts' },
   { name: 'Shakes & Ice Cream', count: 10, emoji: '🍦', href: '/category/shakes' },
   { name: 'Proteinsicles', count: 4, emoji: '🧊', href: '/category/proteinsicles' },
+  { name: 'Seafood', count: 12, emoji: '🐟', href: '/category/seafood' },
 ];
 
 // No hardcoded recipes — using real data from all 135 recipes

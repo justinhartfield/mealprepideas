@@ -28,6 +28,7 @@ const SLUG_TO_CATEGORY: Record<string, string> = {
   shakes: 'Protein Shakes & Ice Cream',
   proteinsicles: 'Proteinsicles',
   'rice-cake-sandwiches': 'Rice Cake Sandwiches',
+  seafood: 'Seafood',
 };
 
 const SLUG_TO_EMOJI: Record<string, string> = {
@@ -40,6 +41,7 @@ const SLUG_TO_EMOJI: Record<string, string> = {
   shakes: '🍦',
   proteinsicles: '🧊',
   'rice-cake-sandwiches': '🍙',
+  seafood: '🐟',
 };
 
 type Allergen = 'GF' | 'DF' | 'SF' | 'NF' | 'EF';

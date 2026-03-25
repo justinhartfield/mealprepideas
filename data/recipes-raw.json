@@ -13591,5 +13591,1441 @@
       "nutFree": true,
       "eggFree": true
     }
+  },
+  {
+    "slug": "lemon-herb-grilled-salmon",
+    "title": "Lemon Herb Grilled Salmon",
+    "category": "Seafood",
+    "subcategory": "Salmon",
+    "yield": "4 servings",
+    "prepTime": "10 min",
+    "cookTime": "12 min",
+    "ingredients": [
+      {
+        "name": "wild-caught salmon fillets",
+        "amountG": 680,
+        "displayUS": "4 fillets (6oz each)",
+        "category": "wet"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 30,
+        "displayUS": "2 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "lemon zest",
+        "amountG": 4,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amountG": 15,
+        "displayUS": "1 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "minced garlic",
+        "amountG": 10,
+        "displayUS": "3 cloves",
+        "category": "wet"
+      },
+      {
+        "name": "fresh dill, chopped",
+        "amountG": 5,
+        "displayUS": "2 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh parsley, chopped",
+        "amountG": 5,
+        "displayUS": "2 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 3,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "ground turmeric",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp (sprinkle on top)",
+        "category": "dry"
+      },
+      {
+        "name": "asparagus spears",
+        "amountG": 400,
+        "displayUS": "1 bunch",
+        "category": "wet"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": 1,
+        "displayUS": "1 spray",
+        "category": "wet"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "text": "Preheat grill or grill pan to medium-high heat (400°F/204°C). In a small bowl, whisk together lemon juice, lemon zest, olive oil, garlic, dill, parsley, salt, pepper, and turmeric."
+      },
+      {
+        "step": 2,
+        "text": "Pat salmon fillets dry with paper towels. Brush the herb-lemon mixture generously over both sides of each fillet."
+      },
+      {
+        "step": 3,
+        "text": "Toss asparagus with cooking spray, salt, and pepper. Place on grill alongside salmon."
+      },
+      {
+        "step": 4,
+        "text": "Grill salmon skin-side down for 4-5 minutes. Carefully flip and grill another 3-4 minutes until internal temperature reaches 145°F/63°C and fish flakes easily."
+      },
+      {
+        "step": 5,
+        "text": "Grill asparagus 3-4 minutes, turning once, until tender-crisp with light char marks."
+      },
+      {
+        "step": 6,
+        "text": "Plate salmon over asparagus. Sprinkle ground flaxseed on top for omega-3 boost. Squeeze extra lemon wedge over everything. Serve immediately."
+      }
+    ],
+    "recipeNotes": "Wild-caught salmon has 3x more omega-3s than farmed. The turmeric + black pepper combination maximizes curcumin absorption. Meal prep: stores 3 days refrigerated.",
+    "dietaryFlags": {
+      "glutenFree": true,
+      "dairyFree": true,
+      "soyFree": true,
+      "nutFree": true,
+      "eggFree": true
+    }
+  },
+  {
+    "slug": "coconut-aminos-shrimp-stir-fry",
+    "title": "Coconut Aminos Shrimp Stir-Fry",
+    "category": "Seafood",
+    "subcategory": "Shrimp",
+    "yield": "3 servings",
+    "prepTime": "15 min",
+    "cookTime": "10 min",
+    "ingredients": [
+      {
+        "name": "large shrimp, peeled and deveined",
+        "amountG": 450,
+        "displayUS": "1 lb",
+        "category": "wet"
+      },
+      {
+        "name": "coconut aminos",
+        "amountG": 45,
+        "displayUS": "3 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "fresh ginger, grated",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "minced garlic",
+        "amountG": 10,
+        "displayUS": "3 cloves",
+        "category": "wet"
+      },
+      {
+        "name": "red bell pepper, sliced",
+        "amountG": 150,
+        "displayUS": "1 large",
+        "category": "wet"
+      },
+      {
+        "name": "broccoli florets",
+        "amountG": 200,
+        "displayUS": "2 cups",
+        "category": "wet"
+      },
+      {
+        "name": "snap peas",
+        "amountG": 100,
+        "displayUS": "1 cup",
+        "category": "wet"
+      },
+      {
+        "name": "green onions, sliced",
+        "amountG": 30,
+        "displayUS": "3 stalks",
+        "category": "wet"
+      },
+      {
+        "name": "sesame-free stir-fry oil or cooking spray",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "rice vinegar",
+        "amountG": 15,
+        "displayUS": "1 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "corn starch (for sauce)",
+        "amountG": 8,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "red pepper flakes",
+        "amountG": 1,
+        "displayUS": "1/4 tsp (optional)",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp per serving",
+        "category": "dry"
+      },
+      {
+        "name": "cauliflower rice",
+        "amountG": 300,
+        "displayUS": "3 cups",
+        "category": "wet"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "text": "In a small bowl, whisk coconut aminos, rice vinegar, corn starch, ginger, and red pepper flakes to make the sauce. Set aside."
+      },
+      {
+        "step": 2,
+        "text": "Heat a large wok or skillet over high heat. Add cooking spray or oil. Add shrimp in a single layer and cook 1-2 minutes per side until pink. Remove and set aside."
+      },
+      {
+        "step": 3,
+        "text": "In the same wok, add broccoli, bell pepper, and snap peas. Stir-fry 3-4 minutes until vegetables are tender-crisp."
+      },
+      {
+        "step": 4,
+        "text": "Add garlic and cook 30 seconds until fragrant. Pour the sauce over the vegetables and stir until it thickens (about 1 minute)."
+      },
+      {
+        "step": 5,
+        "text": "Return shrimp to the wok. Toss everything together for 1 minute. Season with salt and pepper."
+      },
+      {
+        "step": 6,
+        "text": "Serve over cauliflower rice. Top with sliced green onions and hemp hearts for extra omega-3s and protein."
+      }
+    ],
+    "recipeNotes": "Coconut aminos are the perfect soy-free alternative — slightly sweeter than soy sauce, so no added sweetener needed. For extra protein, add 2 whole eggs scrambled into the stir-fry. Meal prep friendly: stores 3 days refrigerated.",
+    "dietaryFlags": {
+      "glutenFree": true,
+      "dairyFree": true,
+      "soyFree": true,
+      "nutFree": true,
+      "eggFree": true
+    }
+  },
+  {
+    "slug": "blackened-tilapia-cauliflower-rice",
+    "title": "Blackened Tilapia with Cauliflower Rice",
+    "category": "Seafood",
+    "subcategory": "Tilapia",
+    "yield": "2 servings",
+    "prepTime": "10 min",
+    "cookTime": "8 min",
+    "ingredients": [
+      {
+        "name": "tilapia fillets",
+        "amountG": 340,
+        "displayUS": "2 fillets (6oz each)",
+        "category": "wet"
+      },
+      {
+        "name": "smoked paprika",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "garlic powder",
+        "amountG": 2,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "onion powder",
+        "amountG": 2,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "cayenne pepper",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "dried thyme",
+        "amountG": 1,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "dried oregano",
+        "amountG": 1,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": 1,
+        "displayUS": "1 spray",
+        "category": "wet"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 15,
+        "displayUS": "1 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "cauliflower rice",
+        "amountG": 300,
+        "displayUS": "3 cups",
+        "category": "wet"
+      },
+      {
+        "name": "fresh parsley, chopped",
+        "amountG": 5,
+        "displayUS": "2 tbsp garnish",
+        "category": "dry"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "text": "Mix all dry spices (paprika, garlic powder, onion powder, cayenne, thyme, oregano, salt, pepper) in a small bowl to create the blackening seasoning."
+      },
+      {
+        "step": 2,
+        "text": "Pat tilapia fillets completely dry. Press the blackening seasoning firmly onto both sides of each fillet."
+      },
+      {
+        "step": 3,
+        "text": "Heat a cast iron skillet over high heat until smoking. Spray with cooking spray for 1 second. Place fillets in the pan."
+      },
+      {
+        "step": 4,
+        "text": "Cook 3-4 minutes per side without moving until a dark crust forms and fish flakes easily. Internal temp: 145°F/63°C."
+      },
+      {
+        "step": 5,
+        "text": "Meanwhile, heat cauliflower rice in a separate pan with cooking spray. Season with salt and pepper."
+      },
+      {
+        "step": 6,
+        "text": "Plate cauliflower rice, top with blackened tilapia. Squeeze lemon juice over everything, sprinkle with parsley and ground flaxseed. Serve immediately."
+      }
+    ],
+    "recipeNotes": "The blackening technique creates incredible flavor without any added fat. Tilapia is one of the leanest fish proteins available (20g protein, under 100 calories per fillet). Meal prep: best eaten fresh, but stores 2 days refrigerated.",
+    "dietaryFlags": {
+      "glutenFree": true,
+      "dairyFree": true,
+      "soyFree": true,
+      "nutFree": true,
+      "eggFree": true
+    }
+  },
+  {
+    "slug": "spicy-garlic-shrimp-skewers",
+    "title": "Spicy Garlic Shrimp Skewers",
+    "category": "Seafood",
+    "subcategory": "Shrimp",
+    "yield": "4 servings",
+    "prepTime": "15 min + 30 min marinade",
+    "cookTime": "6 min",
+    "ingredients": [
+      {
+        "name": "jumbo shrimp, peeled and deveined",
+        "amountG": 680,
+        "displayUS": "1.5 lbs",
+        "category": "wet"
+      },
+      {
+        "name": "minced garlic",
+        "amountG": 15,
+        "displayUS": "5 cloves",
+        "category": "wet"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amountG": 15,
+        "displayUS": "1 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 30,
+        "displayUS": "2 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "smoked paprika",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "red pepper flakes",
+        "amountG": 2,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "ground cumin",
+        "amountG": 2,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 3,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh cilantro, chopped",
+        "amountG": 10,
+        "displayUS": "1/4 cup garnish",
+        "category": "dry"
+      },
+      {
+        "name": "lemon wedges for serving",
+        "amountG": 60,
+        "displayUS": "4 wedges",
+        "category": "wet"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "text": "In a large bowl, combine garlic, olive oil, lemon juice, paprika, red pepper flakes, cumin, salt, and pepper. Add shrimp and toss to coat. Refrigerate for 30 minutes."
+      },
+      {
+        "step": 2,
+        "text": "Thread marinated shrimp onto skewers (if using wooden skewers, soak in water for 30 minutes first)."
+      },
+      {
+        "step": 3,
+        "text": "Heat grill or grill pan to high heat (450°F/232°C). Spray grates with cooking spray."
+      },
+      {
+        "step": 4,
+        "text": "Grill shrimp skewers 2-3 minutes per side until pink, opaque, and slightly charred. Do not overcook — shrimp cook fast."
+      },
+      {
+        "step": 5,
+        "text": "Transfer to a platter. Squeeze lemon wedges over the skewers and garnish with fresh cilantro. Serve immediately."
+      }
+    ],
+    "recipeNotes": "Shrimp is the bodybuilder's secret weapon: 20g protein per 100g at only 85 calories. These skewers work as a dinner protein or a high-protein appetizer. Pair with cauliflower rice or a large salad.",
+    "dietaryFlags": {
+      "glutenFree": true,
+      "dairyFree": true,
+      "soyFree": true,
+      "nutFree": true,
+      "eggFree": true
+    }
+  },
+  {
+    "slug": "allergy-friendly-tuna-poke-bowl",
+    "title": "Allergy-Friendly Tuna Poke Bowl",
+    "category": "Seafood",
+    "subcategory": "Tuna",
+    "yield": "2 servings",
+    "prepTime": "15 min",
+    "cookTime": "20 min (rice)",
+    "ingredients": [
+      {
+        "name": "sushi-grade ahi tuna, cubed",
+        "amountG": 340,
+        "displayUS": "12 oz",
+        "category": "wet"
+      },
+      {
+        "name": "coconut aminos",
+        "amountG": 30,
+        "displayUS": "2 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "rice vinegar",
+        "amountG": 15,
+        "displayUS": "1 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "fresh ginger, grated",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "green onions, sliced",
+        "amountG": 20,
+        "displayUS": "2 stalks",
+        "category": "wet"
+      },
+      {
+        "name": "avocado, sliced",
+        "amountG": 100,
+        "displayUS": "1/2 medium",
+        "category": "wet"
+      },
+      {
+        "name": "cucumber, diced",
+        "amountG": 100,
+        "displayUS": "1/2 medium",
+        "category": "wet"
+      },
+      {
+        "name": "edamame (shelled, if soy-tolerant) or hemp hearts",
+        "amountG": 30,
+        "displayUS": "2 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "white rice (cooked)",
+        "amountG": 300,
+        "displayUS": "2 cups cooked",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "red pepper flakes",
+        "amountG": 1,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 10,
+        "displayUS": "2 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "nori sheets, crumbled (optional)",
+        "amountG": 3,
+        "displayUS": "1 sheet",
+        "category": "dry"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "text": "Cook rice according to package directions. Let cool slightly."
+      },
+      {
+        "step": 2,
+        "text": "In a medium bowl, gently toss cubed tuna with coconut aminos, rice vinegar, ginger, green onions, salt, and red pepper flakes. Let marinate 5-10 minutes."
+      },
+      {
+        "step": 3,
+        "text": "Divide rice between two bowls. Arrange marinated tuna, avocado slices, cucumber, and hemp hearts on top."
+      },
+      {
+        "step": 4,
+        "text": "Drizzle any remaining marinade over the bowls. Squeeze lemon juice on top."
+      },
+      {
+        "step": 5,
+        "text": "Garnish with crumbled nori and extra green onions. Serve immediately — poke is best fresh."
+      }
+    ],
+    "recipeNotes": "Ahi tuna is incredibly protein-dense (30g protein per 100g) and rich in omega-3s. The coconut aminos replace soy sauce perfectly. Nori adds iodine — a critical micronutrient often missing from allergy-free diets. Use hemp hearts instead of edamame for fully soy-free.",
+    "dietaryFlags": {
+      "glutenFree": true,
+      "dairyFree": true,
+      "soyFree": true,
+      "nutFree": true,
+      "eggFree": true
+    }
+  },
+  {
+    "slug": "pan-seared-cod-roasted-vegetables",
+    "title": "Pan-Seared Cod with Roasted Vegetables",
+    "category": "Seafood",
+    "subcategory": "Cod",
+    "yield": "2 servings",
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "ingredients": [
+      {
+        "name": "cod fillets",
+        "amountG": 340,
+        "displayUS": "2 fillets (6oz each)",
+        "category": "wet"
+      },
+      {
+        "name": "zucchini, sliced",
+        "amountG": 200,
+        "displayUS": "1 medium",
+        "category": "wet"
+      },
+      {
+        "name": "cherry tomatoes",
+        "amountG": 150,
+        "displayUS": "1 cup",
+        "category": "wet"
+      },
+      {
+        "name": "red bell pepper, diced",
+        "amountG": 100,
+        "displayUS": "1 medium",
+        "category": "wet"
+      },
+      {
+        "name": "red onion, sliced",
+        "amountG": 80,
+        "displayUS": "1/2 medium",
+        "category": "wet"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amountG": 10,
+        "displayUS": "2 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "minced garlic",
+        "amountG": 8,
+        "displayUS": "2 cloves",
+        "category": "wet"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 15,
+        "displayUS": "1 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "capers",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "dried oregano",
+        "amountG": 2,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 3,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh basil leaves",
+        "amountG": 5,
+        "displayUS": "handful for garnish",
+        "category": "dry"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": 1,
+        "displayUS": "1 spray",
+        "category": "wet"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "text": "Preheat oven to 425°F/218°C. Toss zucchini, cherry tomatoes, bell pepper, and onion with 1 tsp olive oil, oregano, salt, and pepper on a sheet pan. Roast for 15-20 minutes until tender and edges are caramelized."
+      },
+      {
+        "step": 2,
+        "text": "While vegetables roast, pat cod fillets completely dry and season both sides with salt, pepper, and garlic."
+      },
+      {
+        "step": 3,
+        "text": "Heat remaining 1 tsp olive oil in a nonstick skillet over medium-high heat. Place cod presentation-side down. Cook 4 minutes until golden crust forms. Flip and cook 3 more minutes until fish flakes (internal temp 145°F/63°C)."
+      },
+      {
+        "step": 4,
+        "text": "In the last minute, add capers and lemon juice to the pan. Spoon the caper-lemon pan sauce over the fish."
+      },
+      {
+        "step": 5,
+        "text": "Plate roasted vegetables, top with cod. Drizzle pan sauce over everything. Garnish with fresh basil. Serve immediately."
+      }
+    ],
+    "recipeNotes": "Cod is an ultra-lean white fish (18g protein, 0.7g fat per 100g). The Mediterranean vegetable base adds fiber, vitamins C and A. Capers provide briny umami without any allergens. Meal prep: stores 2 days refrigerated.",
+    "dietaryFlags": {
+      "glutenFree": true,
+      "dairyFree": true,
+      "soyFree": true,
+      "nutFree": true,
+      "eggFree": true
+    }
+  },
+  {
+    "slug": "air-fried-fish-tacos",
+    "title": "Air-Fried Fish Tacos",
+    "category": "Seafood",
+    "subcategory": "Tilapia",
+    "yield": "4 servings (8 tacos)",
+    "prepTime": "15 min",
+    "cookTime": "10 min",
+    "ingredients": [
+      {
+        "name": "tilapia fillets, cut into strips",
+        "amountG": 450,
+        "displayUS": "1 lb",
+        "category": "wet"
+      },
+      {
+        "name": "certified gluten-free tortillas",
+        "amountG": 320,
+        "displayUS": "8 small tortillas",
+        "category": "dry"
+      },
+      {
+        "name": "panko certified gluten-free breadcrumbs",
+        "amountG": 60,
+        "displayUS": "1/2 cup",
+        "category": "dry"
+      },
+      {
+        "name": "egg whites",
+        "amountG": 60,
+        "displayUS": "1/4 cup (for coating)",
+        "category": "wet"
+      },
+      {
+        "name": "smoked paprika",
+        "amountG": 2,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "garlic powder",
+        "amountG": 2,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "ground cumin",
+        "amountG": 2,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 3,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "shredded green cabbage (coleslaw)",
+        "amountG": 200,
+        "displayUS": "2 cups",
+        "category": "wet"
+      },
+      {
+        "name": "fresh lime juice",
+        "amountG": 30,
+        "displayUS": "2 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "avocado, sliced",
+        "amountG": 100,
+        "displayUS": "1/2 medium",
+        "category": "wet"
+      },
+      {
+        "name": "fresh cilantro, chopped",
+        "amountG": 10,
+        "displayUS": "1/4 cup",
+        "category": "dry"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": 1,
+        "displayUS": "for air fryer",
+        "category": "wet"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "text": "Mix GF breadcrumbs with paprika, garlic powder, cumin, and salt in a shallow dish."
+      },
+      {
+        "step": 2,
+        "text": "Dip tilapia strips in egg whites, then press into seasoned breadcrumbs to coat all sides."
+      },
+      {
+        "step": 3,
+        "text": "Spray air fryer basket with cooking spray. Arrange breaded fish in a single layer. Air fry at 400°F/204°C for 8-10 minutes, flipping halfway, until golden and crispy."
+      },
+      {
+        "step": 4,
+        "text": "While fish cooks, toss shredded cabbage with lime juice and a pinch of salt for quick slaw."
+      },
+      {
+        "step": 5,
+        "text": "Warm tortillas in a dry pan or microwave for 15 seconds."
+      },
+      {
+        "step": 6,
+        "text": "Build tacos: tortilla, lime slaw, crispy fish strip, avocado slices, fresh cilantro. Squeeze extra lime on top."
+      }
+    ],
+    "recipeNotes": "Air frying gives you crispy fish tacos with zero deep-frying oil. Each taco has ~20g protein. For even more protein, double the fish per taco. The lime-cabbage slaw adds crunch, vitamin C, and fiber.",
+    "dietaryFlags": {
+      "glutenFree": true,
+      "dairyFree": true,
+      "soyFree": true,
+      "nutFree": true,
+      "eggFree": false
+    }
+  },
+  {
+    "slug": "high-protein-salmon-patties",
+    "title": "High-Protein Salmon Patties",
+    "category": "Seafood",
+    "subcategory": "Salmon",
+    "yield": "6 patties",
+    "prepTime": "10 min",
+    "cookTime": "8 min",
+    "ingredients": [
+      {
+        "name": "canned wild salmon, drained",
+        "amountG": 420,
+        "displayUS": "2 cans (7.5oz each)",
+        "category": "wet"
+      },
+      {
+        "name": "egg whites",
+        "amountG": 60,
+        "displayUS": "1/4 cup",
+        "category": "wet"
+      },
+      {
+        "name": "certified gluten-free oat flour",
+        "amountG": 30,
+        "displayUS": "1/4 cup",
+        "category": "dry"
+      },
+      {
+        "name": "green onions, finely diced",
+        "amountG": 30,
+        "displayUS": "3 stalks",
+        "category": "wet"
+      },
+      {
+        "name": "fresh dill, chopped",
+        "amountG": 5,
+        "displayUS": "2 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 15,
+        "displayUS": "1 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "lemon zest",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "Dijon mustard",
+        "amountG": 10,
+        "displayUS": "2 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "smoked paprika",
+        "amountG": 2,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": 1,
+        "displayUS": "for pan",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "text": "Drain canned salmon well, removing any large bones and skin. Flake with a fork in a large bowl."
+      },
+      {
+        "step": 2,
+        "text": "Add egg whites, oat flour, ground flaxseed, green onions, dill, lemon juice, zest, mustard, paprika, salt, and pepper. Mix until well combined."
+      },
+      {
+        "step": 3,
+        "text": "Form mixture into 6 equal patties, about 3/4 inch thick. If mixture is too wet, add a bit more oat flour."
+      },
+      {
+        "step": 4,
+        "text": "Heat a nonstick skillet over medium heat. Spray with cooking spray. Cook patties 3-4 minutes per side until golden brown and heated through."
+      },
+      {
+        "step": 5,
+        "text": "Serve on GF bread as a burger, or plain with a side salad. Top with avocado, lettuce, and lemon wedge."
+      }
+    ],
+    "recipeNotes": "Canned wild salmon retains omega-3s and is incredibly cost-effective for meal prep. Each patty has ~20g protein. The flaxseed adds extra omega-3s and helps bind the patties. Stores 4 days refrigerated or freeze for 3 months.",
+    "dietaryFlags": {
+      "glutenFree": true,
+      "dairyFree": true,
+      "soyFree": true,
+      "nutFree": true,
+      "eggFree": false
+    }
+  },
+  {
+    "slug": "shrimp-cauliflower-grits",
+    "title": "Shrimp & Cauliflower Grits",
+    "category": "Seafood",
+    "subcategory": "Shrimp",
+    "yield": "3 servings",
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "ingredients": [
+      {
+        "name": "large shrimp, peeled and deveined",
+        "amountG": 340,
+        "displayUS": "12 oz",
+        "category": "wet"
+      },
+      {
+        "name": "cauliflower, riced or finely chopped",
+        "amountG": 500,
+        "displayUS": "1 medium head",
+        "category": "wet"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 10,
+        "displayUS": "3 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "minced garlic",
+        "amountG": 10,
+        "displayUS": "3 cloves",
+        "category": "wet"
+      },
+      {
+        "name": "smoked paprika",
+        "amountG": 2,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "cayenne pepper",
+        "amountG": 1,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 15,
+        "displayUS": "1 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "chicken broth",
+        "amountG": 120,
+        "displayUS": "1/2 cup",
+        "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 3,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "green onions, sliced",
+        "amountG": 20,
+        "displayUS": "2 stalks",
+        "category": "wet"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": 1,
+        "displayUS": "for pan",
+        "category": "wet"
+      },
+      {
+        "name": "fresh parsley, chopped",
+        "amountG": 5,
+        "displayUS": "2 tbsp garnish",
+        "category": "dry"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "text": "Make cauliflower grits: Steam or microwave riced cauliflower until very soft (5-6 minutes). Transfer to a pot, add chicken broth and nutritional yeast. Mash or blend until creamy. Season with salt, pepper. Keep warm on low heat."
+      },
+      {
+        "step": 2,
+        "text": "Season shrimp with smoked paprika, cayenne, salt, and pepper."
+      },
+      {
+        "step": 3,
+        "text": "Heat a skillet over medium-high heat with cooking spray. Cook shrimp 2 minutes per side until pink and slightly charred. Add garlic in the last 30 seconds."
+      },
+      {
+        "step": 4,
+        "text": "Squeeze lemon juice over shrimp in the pan. Toss to coat."
+      },
+      {
+        "step": 5,
+        "text": "Spoon cauliflower grits into bowls. Top with shrimp and all the pan juices. Garnish with green onions and parsley."
+      }
+    ],
+    "recipeNotes": "Southern comfort food made allergy-friendly and high-protein. Nutritional yeast gives the cauliflower grits a cheesy, creamy flavor while adding B12 (often missing in dairy-free diets). Each serving has 30g+ protein with under 200 calories.",
+    "dietaryFlags": {
+      "glutenFree": true,
+      "dairyFree": true,
+      "soyFree": true,
+      "nutFree": true,
+      "eggFree": true
+    }
+  },
+  {
+    "slug": "mahi-mahi-mango-salsa",
+    "title": "Mahi Mahi with Fresh Mango Salsa",
+    "category": "Seafood",
+    "subcategory": "Mahi Mahi",
+    "yield": "4 servings",
+    "prepTime": "15 min",
+    "cookTime": "8 min",
+    "ingredients": [
+      {
+        "name": "mahi mahi fillets",
+        "amountG": 680,
+        "displayUS": "4 fillets (6oz each)",
+        "category": "wet"
+      },
+      {
+        "name": "ripe mango, diced",
+        "amountG": 200,
+        "displayUS": "1 large mango",
+        "category": "wet"
+      },
+      {
+        "name": "red onion, finely diced",
+        "amountG": 40,
+        "displayUS": "1/4 cup",
+        "category": "wet"
+      },
+      {
+        "name": "fresh cilantro, chopped",
+        "amountG": 10,
+        "displayUS": "1/4 cup",
+        "category": "dry"
+      },
+      {
+        "name": "jalapeno, seeded and minced",
+        "amountG": 10,
+        "displayUS": "1 small",
+        "category": "wet"
+      },
+      {
+        "name": "fresh lime juice",
+        "amountG": 30,
+        "displayUS": "2 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground cumin",
+        "amountG": 2,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "chili powder",
+        "amountG": 2,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 3,
+        "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amountG": 10,
+        "displayUS": "2 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground turmeric",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "text": "Make the salsa: combine diced mango, red onion, cilantro, jalapeno, and half the lime juice in a bowl. Season with a pinch of salt. Set aside to let flavors meld."
+      },
+      {
+        "step": 2,
+        "text": "Season mahi mahi fillets with cumin, chili powder, turmeric, salt, and pepper on both sides."
+      },
+      {
+        "step": 3,
+        "text": "Heat olive oil in a nonstick skillet over medium-high heat. Cook fillets 3-4 minutes per side until fish is opaque and flakes easily. Internal temp: 145°F/63°C."
+      },
+      {
+        "step": 4,
+        "text": "Squeeze remaining lime juice over the cooked fish in the pan."
+      },
+      {
+        "step": 5,
+        "text": "Plate fish and top generously with fresh mango salsa. Serve with cauliflower rice or a side of roasted sweet potato."
+      }
+    ],
+    "recipeNotes": "Mahi mahi is firm, mild, and perfect for bold toppings. The mango salsa adds vitamin C (boosts iron absorption from the fish), vitamin A, and natural enzymes that aid digestion. A true tropical bodybuilder's plate.",
+    "dietaryFlags": {
+      "glutenFree": true,
+      "dairyFree": true,
+      "soyFree": true,
+      "nutFree": true,
+      "eggFree": true
+    }
+  },
+  {
+    "slug": "garlic-seared-scallops",
+    "title": "Garlic Seared Scallops (Dairy-Free)",
+    "category": "Seafood",
+    "subcategory": "Scallops",
+    "yield": "2 servings",
+    "prepTime": "5 min",
+    "cookTime": "6 min",
+    "ingredients": [
+      {
+        "name": "large sea scallops",
+        "amountG": 340,
+        "displayUS": "12 oz (8-10 scallops)",
+        "category": "wet"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amountG": 10,
+        "displayUS": "2 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "minced garlic",
+        "amountG": 10,
+        "displayUS": "3 cloves",
+        "category": "wet"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 15,
+        "displayUS": "1 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "lemon zest",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh thyme leaves",
+        "amountG": 2,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh parsley, chopped",
+        "amountG": 5,
+        "displayUS": "2 tbsp garnish",
+        "category": "dry"
+      },
+      {
+        "name": "asparagus spears",
+        "amountG": 200,
+        "displayUS": "1/2 bunch",
+        "category": "wet"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "text": "Remove scallops from fridge 15 minutes before cooking. Pat VERY dry with paper towels — this is the secret to a good sear. Season with salt and pepper."
+      },
+      {
+        "step": 2,
+        "text": "Heat olive oil in a stainless steel or cast iron pan over high heat until shimmering (not smoking)."
+      },
+      {
+        "step": 3,
+        "text": "Place scallops in the pan, leaving space between each. Do not move them. Sear 2-3 minutes until a deep golden crust forms on the bottom."
+      },
+      {
+        "step": 4,
+        "text": "Flip scallops. Add garlic, thyme, and lemon zest to the pan. Cook 1-2 more minutes, spooning the garlic oil over the scallops."
+      },
+      {
+        "step": 5,
+        "text": "Remove from heat. Squeeze lemon juice over scallops. Meanwhile, blanch or grill asparagus as a side."
+      },
+      {
+        "step": 6,
+        "text": "Plate asparagus, top with golden scallops and all the pan juices. Garnish with fresh parsley."
+      }
+    ],
+    "recipeNotes": "Restaurant-quality scallops at home. The key is patting them bone-dry and using a screaming hot pan. Scallops are 80% protein with virtually zero fat — one of nature's purest protein sources. Pairs beautifully with cauliflower mash.",
+    "dietaryFlags": {
+      "glutenFree": true,
+      "dairyFree": true,
+      "soyFree": true,
+      "nutFree": true,
+      "eggFree": true
+    }
+  },
+  {
+    "slug": "mediterranean-sea-bass",
+    "title": "Mediterranean Sea Bass with Olives & Tomatoes",
+    "category": "Seafood",
+    "subcategory": "Sea Bass",
+    "yield": "2 servings",
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "ingredients": [
+      {
+        "name": "sea bass fillets (or branzino)",
+        "amountG": 340,
+        "displayUS": "2 fillets (6oz each)",
+        "category": "wet"
+      },
+      {
+        "name": "cherry tomatoes, halved",
+        "amountG": 200,
+        "displayUS": "1.5 cups",
+        "category": "wet"
+      },
+      {
+        "name": "kalamata olives, halved",
+        "amountG": 40,
+        "displayUS": "1/4 cup",
+        "category": "wet"
+      },
+      {
+        "name": "capers",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "minced garlic",
+        "amountG": 8,
+        "displayUS": "2 cloves",
+        "category": "wet"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amountG": 10,
+        "displayUS": "2 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 15,
+        "displayUS": "1 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "dried oregano",
+        "amountG": 2,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh basil leaves",
+        "amountG": 8,
+        "displayUS": "handful",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh spinach",
+        "amountG": 100,
+        "displayUS": "2 cups (bed)",
+        "category": "wet"
+      }
+    ],
+    "instructions": [
+      {
+        "step": 1,
+        "text": "Preheat oven to 400°F/204°C. In a baking dish, combine cherry tomatoes, olives, capers, garlic, and half the olive oil. Season with oregano, salt, and pepper. Roast 10 minutes until tomatoes start to burst."
+      },
+      {
+        "step": 2,
+        "text": "Season sea bass fillets with salt, pepper, and remaining olive oil. Nestle them into the roasted tomato mixture."
+      },
+      {
+        "step": 3,
+        "text": "Return to oven and bake 10-12 minutes until fish is opaque and flakes easily (internal temp 145°F/63°C)."
+      },
+      {
+        "step": 4,
+        "text": "While fish bakes, wilt spinach in a pan with a splash of water and pinch of salt."
+      },
+      {
+        "step": 5,
+        "text": "Plate wilted spinach as a bed. Top with sea bass and all the olive-tomato mixture. Drizzle lemon juice and scatter fresh basil. Serve immediately."
+      }
+    ],
+    "recipeNotes": "A Mediterranean diet staple adapted for allergy-free eating. Olives provide monounsaturated fats (heart-healthy), capers add briny depth, and tomatoes provide lycopene. The spinach bed adds iron, calcium, and folate. Total plate: 35g+ protein, loaded with micronutrients.",
+    "dietaryFlags": {
+      "glutenFree": true,
+      "dairyFree": true,
+      "soyFree": true,
+      "nutFree": true,
+      "eggFree": true
+    }
   }
 ]

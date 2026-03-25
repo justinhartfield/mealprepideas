@@ -534,6 +534,74 @@ const INGREDIENT_DB: Record<string, IngredientEntry> = {
     name: "Fresh Ginger",
     macrosPer100g: { calories: 80, protein: 1.8, totalFat: 0.8, saturatedFat: 0.2, cholesterol: 0, sodium: 13, totalCarbs: 18, dietaryFiber: 2, totalSugars: 1.7, iron: 0.6, calcium: 16, potassium: 415, vitaminD: 0 },
   },
+  "wild-caught-salmon-fillets": {
+    name: "Wild-Caught Salmon",
+    macrosPer100g: { calories: 208, protein: 20, totalFat: 13.4, saturatedFat: 3.1, cholesterol: 55, sodium: 59, totalCarbs: 0, dietaryFiber: 0, totalSugars: 0, iron: 0.3, calcium: 12, potassium: 363, vitaminD: 11 },
+  },
+  "large-shrimp-peeled-and-deveined": {
+    name: "Large Shrimp (peeled)",
+    macrosPer100g: { calories: 85, protein: 20.1, totalFat: 0.5, saturatedFat: 0.1, cholesterol: 161, sodium: 119, totalCarbs: 0.2, dietaryFiber: 0, totalSugars: 0, iron: 0.5, calcium: 64, potassium: 113, vitaminD: 0 },
+  },
+  "jumbo-shrimp-peeled-and-deveined": {
+    name: "Jumbo Shrimp",
+    macrosPer100g: { calories: 85, protein: 20.1, totalFat: 0.5, saturatedFat: 0.1, cholesterol: 161, sodium: 119, totalCarbs: 0.2, dietaryFiber: 0, totalSugars: 0, iron: 0.5, calcium: 64, potassium: 113, vitaminD: 0 },
+  },
+  "tilapia-fillets": {
+    name: "Tilapia Fillets",
+    macrosPer100g: { calories: 96, protein: 20.1, totalFat: 1.7, saturatedFat: 0.6, cholesterol: 50, sodium: 52, totalCarbs: 0, dietaryFiber: 0, totalSugars: 0, iron: 0.6, calcium: 10, potassium: 302, vitaminD: 3.1 },
+  },
+  "cod-fillets": {
+    name: "Cod Fillets",
+    macrosPer100g: { calories: 82, protein: 17.8, totalFat: 0.7, saturatedFat: 0.1, cholesterol: 43, sodium: 54, totalCarbs: 0, dietaryFiber: 0, totalSugars: 0, iron: 0.4, calcium: 16, potassium: 413, vitaminD: 1 },
+  },
+  "sushi-grade-ahi-tuna-cubed": {
+    name: "Ahi Tuna (sushi-grade)",
+    macrosPer100g: { calories: 109, protein: 24, totalFat: 0.5, saturatedFat: 0.1, cholesterol: 45, sodium: 45, totalCarbs: 0, dietaryFiber: 0, totalSugars: 0, iron: 1, calcium: 4, potassium: 441, vitaminD: 1.7 },
+  },
+  "mahi-mahi-fillets": {
+    name: "Mahi Mahi",
+    macrosPer100g: { calories: 85, protein: 18.5, totalFat: 0.7, saturatedFat: 0.2, cholesterol: 73, sodium: 88, totalCarbs: 0, dietaryFiber: 0, totalSugars: 0, iron: 1.1, calcium: 15, potassium: 416, vitaminD: 5.4 },
+  },
+  "large-sea-scallops": {
+    name: "Sea Scallops",
+    macrosPer100g: { calories: 69, protein: 12.1, totalFat: 0.5, saturatedFat: 0.1, cholesterol: 24, sodium: 392, totalCarbs: 3.2, dietaryFiber: 0, totalSugars: 0, iron: 0.4, calcium: 6, potassium: 205, vitaminD: 0 },
+  },
+  "sea-bass-fillets-or-branzino": {
+    name: "Sea Bass",
+    macrosPer100g: { calories: 97, protein: 18.4, totalFat: 2, saturatedFat: 0.5, cholesterol: 41, sodium: 68, totalCarbs: 0, dietaryFiber: 0, totalSugars: 0, iron: 0.3, calcium: 10, potassium: 256, vitaminD: 0 },
+  },
+  "canned-wild-salmon-drained": {
+    name: "Canned Wild Salmon",
+    macrosPer100g: { calories: 136, protein: 20, totalFat: 6, saturatedFat: 1.3, cholesterol: 44, sodium: 390, totalCarbs: 0, dietaryFiber: 0, totalSugars: 0, iron: 0.7, calcium: 213, potassium: 277, vitaminD: 14.1 },
+  },
+  "extra-virgin-olive-oil": {
+    name: "Extra Virgin Olive Oil",
+    macrosPer100g: { calories: 884, protein: 0, totalFat: 100, saturatedFat: 13.8, cholesterol: 0, sodium: 2, totalCarbs: 0, dietaryFiber: 0, totalSugars: 0, iron: 0.6, calcium: 1, potassium: 1, vitaminD: 0 },
+  },
+  "kalamata-olives-halved": {
+    name: "Kalamata Olives",
+    macrosPer100g: { calories: 145, protein: 1, totalFat: 15.3, saturatedFat: 2, cholesterol: 0, sodium: 735, totalCarbs: 3.8, dietaryFiber: 3.2, totalSugars: 0, iron: 3.3, calcium: 88, potassium: 8, vitaminD: 0 },
+  },
+  "broccoli-florets": {
+    name: "Broccoli Florets",
+    macrosPer100g: { calories: 34, protein: 2.8, totalFat: 0.4, saturatedFat: 0, cholesterol: 0, sodium: 33, totalCarbs: 6.6, dietaryFiber: 2.6, totalSugars: 1.7, iron: 0.7, calcium: 47, potassium: 316, vitaminD: 0 },
+  },
+  "snap-peas": {
+    name: "Snap Peas",
+    macrosPer100g: { calories: 42, protein: 2.8, totalFat: 0.2, saturatedFat: 0, cholesterol: 0, sodium: 4, totalCarbs: 7.6, dietaryFiber: 2.6, totalSugars: 4, iron: 2.1, calcium: 43, potassium: 200, vitaminD: 0 },
+  },
+  "white-rice-cooked": {
+    name: "White Rice (cooked)",
+    macrosPer100g: { calories: 130, protein: 2.7, totalFat: 0.3, saturatedFat: 0.1, cholesterol: 0, sodium: 1, totalCarbs: 28.2, dietaryFiber: 0.4, totalSugars: 0, iron: 1.2, calcium: 10, potassium: 35, vitaminD: 0 },
+  },
+  "ripe-mango-diced": {
+    name: "Mango (diced)",
+    macrosPer100g: { calories: 60, protein: 0.8, totalFat: 0.4, saturatedFat: 0.1, cholesterol: 0, sodium: 1, totalCarbs: 15, dietaryFiber: 1.6, totalSugars: 14, iron: 0.2, calcium: 11, potassium: 168, vitaminD: 0 },
+  },
+  "shredded-green-cabbage-coleslaw": {
+    name: "Shredded Green Cabbage",
+    macrosPer100g: { calories: 25, protein: 1.3, totalFat: 0.1, saturatedFat: 0, cholesterol: 0, sodium: 18, totalCarbs: 5.8, dietaryFiber: 2.5, totalSugars: 3.2, iron: 0.5, calcium: 40, potassium: 170, vitaminD: 0 },
+  },
   "vitamin-d-fortified-unsweetened-oat-milk": {
     name: "Vitamin D-Fortified Oat Milk",
     macrosPer100g: { calories: 40, protein: 1.0, totalFat: 1.5, saturatedFat: 0.2, cholesterol: 0, sodium: 80, totalCarbs: 7, dietaryFiber: 1, totalSugars: 3, iron: 0.3, calcium: 120, potassium: 80, vitaminD: 1.2 },
