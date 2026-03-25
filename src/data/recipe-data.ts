@@ -578,10 +578,82 @@ interface RawRecipe {
 // MAP RAW RECIPES TO APP RECIPES
 // ============================================================================
 
+/** Estimate gram weight from displayUS when amountG is null */
+function estimateAmountG(displayUS: string, name: string): number {
+  const s = displayUS.toLowerCase();
+  // Try to extract explicit grams like "480g" or "180g (3/4 cup)"
+  const gMatch = s.match(/(\d+)\s*g\b/);
+  if (gMatch) return parseInt(gMatch[1]);
+  // Try oz: "16 oz" = 454g
+  const ozMatch = s.match(/(\d+(?:\.\d+)?)\s*oz/);
+  if (ozMatch) return Math.round(parseFloat(ozMatch[1]) * 28.35);
+  // Try ml: "500ml"
+  const mlMatch = s.match(/(\d+)\s*ml/);
+  if (mlMatch) return parseInt(mlMatch[1]);
+  // Cup conversions (approximate)
+  if (s.includes('cup')) {
+    const cupMatch = s.match(/([\d½¼¾⅓⅔]+(?:\/\d+)?)\s*cup/);
+    if (cupMatch) {
+      let cups = 0;
+      const raw = cupMatch[1];
+      if (raw.includes('½') || raw === '1/2') cups = 0.5;
+      else if (raw.includes('¼') || raw === '1/4') cups = 0.25;
+      else if (raw.includes('¾') || raw === '3/4') cups = 0.75;
+      else if (raw.includes('⅓') || raw === '1/3') cups = 0.33;
+      else if (raw.includes('⅔') || raw === '2/3') cups = 0.67;
+      else cups = parseFloat(raw) || 1;
+      // Rough: 1 cup = 240ml for liquids, 120g for flours, 240g for egg whites
+      const n = name.toLowerCase();
+      if (n.includes('egg white')) return Math.round(cups * 240);
+      if (n.includes('flour') || n.includes('oat')) return Math.round(cups * 120);
+      if (n.includes('yogurt') || n.includes('applesauce') || n.includes('pumpkin')) return Math.round(cups * 245);
+      return Math.round(cups * 200); // generic
+    }
+  }
+  // "X slices" of bread = ~40g each
+  const sliceMatch = s.match(/(\d+)\s*slice/);
+  if (sliceMatch) return parseInt(sliceMatch[1]) * 40;
+  // "X scoops" protein = ~33g each
+  const scoopMatch = s.match(/([\d½¼¾]+(?:\/\d+)?)\s*scoop/);
+  if (scoopMatch) {
+    const raw = scoopMatch[1];
+    let scoops = parseFloat(raw) || 1;
+    if (raw.includes('½')) scoops = 0.5;
+    return Math.round(scoops * 33);
+  }
+  // "X packets" sweetener = ~2g each
+  const packetMatch = s.match(/(\d+)\s*packet/);
+  if (packetMatch) return parseInt(packetMatch[1]) * 2;
+  // "X tbsp" = ~15g
+  const tbspMatch = s.match(/([\d½¼¾]+(?:\/\d+)?)\s*tbsp/);
+  if (tbspMatch) {
+    let tbsp = parseFloat(tbspMatch[1]) || 1;
+    if (tbspMatch[1].includes('½')) tbsp = 0.5;
+    return Math.round(tbsp * 15);
+  }
+  // "X tsp" = ~5g
+  const tspMatch = s.match(/([\d½¼¾]+(?:\/\d+)?)\s*tsp/);
+  if (tspMatch) {
+    let tsp = parseFloat(tspMatch[1]) || 1;
+    if (tspMatch[1].includes('½')) tsp = 0.5;
+    return Math.round(tsp * 5);
+  }
+  // "1 serving" or "1 large" - guess based on name
+  const n = name.toLowerCase();
+  if (n.includes('chicken') || n.includes('beef') || n.includes('turkey') || n.includes('meat')) return 150;
+  if (n.includes('bread') || n.includes('tortilla') || n.includes('bun')) return 80;
+  if (n.includes('cheese')) return 30;
+  if (n.includes('rice cake')) return 27;
+  if (n.includes('banana')) return 120;
+  if (n.includes('apple')) return 180;
+  // Default: small amount
+  return 30;
+}
+
 function mapRawRecipe(raw: RawRecipe): Recipe {
   const ingredients: RecipeIngredient[] = raw.ingredients.map((ing) => {
     const id = slugifyIngredient(ing.name);
-    const amountG = ing.amountG ?? 0;
+    const amountG = ing.amountG ?? estimateAmountG(ing.displayUS, ing.name);
     const { isSwappable, substitutionGroupId } = getSwapInfo(ing.name);
 
     return {
