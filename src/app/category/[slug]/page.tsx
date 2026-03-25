@@ -85,9 +85,8 @@ function estimateNutrition(recipe: Recipe): { protein: number; calories: number;
   return { protein, calories, peRatio };
 }
 
-export default function CategoryPage({ params }: { params: Promise<{ slug: string }> }) {
-  const resolvedParams = React.use(params);
-  const slug = resolvedParams.slug;
+export default function CategoryPage({ params }: { params: { slug: string } }) {
+  const slug = params.slug;
   const categoryName = SLUG_TO_CATEGORY[slug] || slug;
   const emoji = SLUG_TO_EMOJI[slug] || '📂';
 
