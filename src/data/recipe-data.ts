@@ -473,6 +473,71 @@ const INGREDIENT_DB: Record<string, IngredientEntry> = {
     name: "Rice Cakes",
     macrosPer100g: { calories: 387, protein: 8.0, totalFat: 2.8, saturatedFat: 0.6, cholesterol: 0, sodium: 285, totalCarbs: 81.5, dietaryFiber: 3.4, totalSugars: 0, iron: 0.6, calcium: 3, potassium: 120, vitaminD: 0 },
   },
+  // === NEW: Pillar 3 (Fiber) + Pillar 5 (Micro) + Pillar 6 (Anti-inflammatory) ===
+  "ground-flaxseed-milled": {
+    name: "Ground Flaxseed (milled)",
+    macrosPer100g: { calories: 534, protein: 18.3, totalFat: 42.2, saturatedFat: 3.7, cholesterol: 0, sodium: 30, totalCarbs: 28.9, dietaryFiber: 27.3, totalSugars: 1.6, iron: 5.7, calcium: 255, potassium: 813, vitaminD: 0 },
+  },
+  "chia-seeds": {
+    name: "Chia Seeds",
+    macrosPer100g: { calories: 486, protein: 16.5, totalFat: 30.7, saturatedFat: 3.3, cholesterol: 0, sodium: 16, totalCarbs: 42.1, dietaryFiber: 34.4, totalSugars: 0, iron: 7.7, calcium: 631, potassium: 407, vitaminD: 0 },
+  },
+  "hemp-hearts-optional-topping": {
+    name: "Hemp Hearts",
+    macrosPer100g: { calories: 553, protein: 31.6, totalFat: 48.8, saturatedFat: 4.6, cholesterol: 0, sodium: 5, totalCarbs: 8.7, dietaryFiber: 4.0, totalSugars: 1.5, iron: 7.9, calcium: 70, potassium: 1200, vitaminD: 0 },
+  },
+  "psyllium-husk-powder": {
+    name: "Psyllium Husk Powder",
+    macrosPer100g: { calories: 375, protein: 0, totalFat: 0, saturatedFat: 0, cholesterol: 0, sodium: 36, totalCarbs: 88, dietaryFiber: 80, totalSugars: 0, iron: 0, calcium: 0, potassium: 0, vitaminD: 0 },
+  },
+  "acacia-fiber-powder-prebiotic": {
+    name: "Acacia Fiber Powder",
+    macrosPer100g: { calories: 170, protein: 0, totalFat: 0, saturatedFat: 0, cholesterol: 0, sodium: 0, totalCarbs: 85, dietaryFiber: 85, totalSugars: 0, iron: 0, calcium: 0, potassium: 0, vitaminD: 0 },
+  },
+  "collagen-peptides-unflavored": {
+    name: "Collagen Peptides",
+    macrosPer100g: { calories: 360, protein: 90, totalFat: 0, saturatedFat: 0, cholesterol: 0, sodium: 300, totalCarbs: 0, dietaryFiber: 0, totalSugars: 0, iron: 0, calcium: 30, potassium: 80, vitaminD: 0 },
+  },
+  "nutritional-yeast-for-b12--umami": {
+    name: "Nutritional Yeast",
+    macrosPer100g: { calories: 325, protein: 50, totalFat: 4, saturatedFat: 0.5, cholesterol: 0, sodium: 25, totalCarbs: 25, dietaryFiber: 25, totalSugars: 0, iron: 5, calcium: 20, potassium: 1600, vitaminD: 0 },
+  },
+  "raw-cacao-powder-higher-antioxidants": {
+    name: "Raw Cacao Powder",
+    macrosPer100g: { calories: 228, protein: 19.6, totalFat: 13.7, saturatedFat: 8.1, cholesterol: 0, sodium: 21, totalCarbs: 58, dietaryFiber: 33, totalSugars: 1.8, iron: 13.9, calcium: 128, potassium: 1524, vitaminD: 0 },
+  },
+  "iodized-fine-sea-salt": {
+    name: "Iodized Fine Sea Salt",
+    macrosPer100g: { calories: 0, protein: 0, totalFat: 0, saturatedFat: 0, cholesterol: 0, sodium: 38758, totalCarbs: 0, dietaryFiber: 0, totalSugars: 0, iron: 0.3, calcium: 24, potassium: 8, vitaminD: 0 },
+  },
+  "apple-cider-vinegar": {
+    name: "Apple Cider Vinegar",
+    macrosPer100g: { calories: 21, protein: 0, totalFat: 0, saturatedFat: 0, cholesterol: 0, sodium: 5, totalCarbs: 0.9, dietaryFiber: 0, totalSugars: 0.4, iron: 0.2, calcium: 7, potassium: 73, vitaminD: 0 },
+  },
+  "fresh-lemon-juice": {
+    name: "Fresh Lemon Juice",
+    macrosPer100g: { calories: 22, protein: 0.4, totalFat: 0.2, saturatedFat: 0, cholesterol: 0, sodium: 1, totalCarbs: 6.9, dietaryFiber: 0.3, totalSugars: 2.5, iron: 0.1, calcium: 6, potassium: 103, vitaminD: 0 },
+  },
+  "freshly-ground-black-pepper": {
+    name: "Black Pepper",
+    macrosPer100g: { calories: 251, protein: 10.4, totalFat: 3.3, saturatedFat: 1.4, cholesterol: 0, sodium: 20, totalCarbs: 64, dietaryFiber: 25.3, totalSugars: 0.6, iron: 9.7, calcium: 443, potassium: 1329, vitaminD: 0 },
+  },
+  "smoked-paprika": {
+    name: "Smoked Paprika",
+    macrosPer100g: { calories: 282, protein: 14.1, totalFat: 12.9, saturatedFat: 2.1, cholesterol: 0, sodium: 68, totalCarbs: 54, dietaryFiber: 34.9, totalSugars: 10.3, iron: 21.1, calcium: 229, potassium: 2280, vitaminD: 0 },
+  },
+  "ground-turmeric": {
+    name: "Ground Turmeric",
+    macrosPer100g: { calories: 354, protein: 7.8, totalFat: 9.9, saturatedFat: 3.1, cholesterol: 0, sodium: 38, totalCarbs: 65, dietaryFiber: 21.1, totalSugars: 3.2, iron: 41.4, calcium: 183, potassium: 2525, vitaminD: 0 },
+  },
+  "fresh-ginger-anti-inflammatory": {
+    name: "Fresh Ginger",
+    macrosPer100g: { calories: 80, protein: 1.8, totalFat: 0.8, saturatedFat: 0.2, cholesterol: 0, sodium: 13, totalCarbs: 18, dietaryFiber: 2, totalSugars: 1.7, iron: 0.6, calcium: 16, potassium: 415, vitaminD: 0 },
+  },
+  "vitamin-d-fortified-unsweetened-oat-milk": {
+    name: "Vitamin D-Fortified Oat Milk",
+    macrosPer100g: { calories: 40, protein: 1.0, totalFat: 1.5, saturatedFat: 0.2, cholesterol: 0, sodium: 80, totalCarbs: 7, dietaryFiber: 1, totalSugars: 3, iron: 0.3, calcium: 120, potassium: 80, vitaminD: 1.2 },
+  },
 };
 
 // ============================================================================

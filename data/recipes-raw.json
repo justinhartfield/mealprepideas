@@ -49,6 +49,18 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -130,6 +142,18 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -189,7 +213,7 @@
         "category": "dry"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": 2.5,
         "displayUS": "1/2 tbsp",
         "category": "dry"
@@ -253,6 +277,12 @@
         "amountG": 30,
         "displayUS": "2 tbsp",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -340,10 +370,22 @@
         "category": "wet"
       },
       {
-        "name": "blueberries",
+        "name": "wild blueberries (fresh or frozen — 2x antioxidants)",
         "amountG": null,
         "displayUS": "to taste",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -425,6 +467,18 @@
         "amountG": 1500,
         "displayUS": "~10 peaches",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -506,6 +560,18 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -607,7 +673,7 @@
         "category": "wet"
       },
       {
-        "name": "salt",
+        "name": "iodized fine sea salt",
         "amountG": null,
         "displayUS": "to taste",
         "category": "dry"
@@ -702,7 +768,7 @@
         "category": "wet"
       },
       {
-        "name": "salt & pepper",
+        "name": "iodized fine sea salt & black pepper",
         "amountG": null,
         "displayUS": "to taste",
         "category": "dry"
@@ -773,9 +839,27 @@
         "category": "dry"
       },
       {
-        "name": "salt & pepper",
+        "name": "iodized fine sea salt & black pepper",
         "amountG": null,
         "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "smoked paprika",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
         "category": "dry"
       }
     ],
@@ -880,9 +964,27 @@
         "category": "dry"
       },
       {
-        "name": "salt & pepper",
+        "name": "iodized fine sea salt & black pepper",
         "amountG": null,
         "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "smoked paprika",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
         "category": "dry"
       }
     ],
@@ -961,7 +1063,7 @@
         "category": "dry"
       },
       {
-        "name": "salt & pepper",
+        "name": "iodized fine sea salt & black pepper",
         "amountG": null,
         "displayUS": "to taste",
         "category": "dry"
@@ -971,6 +1073,24 @@
         "amountG": null,
         "displayUS": "4 tbsp",
         "category": "wet"
+      },
+      {
+        "name": "smoked paprika",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -1050,9 +1170,27 @@
         "category": "dry"
       },
       {
-        "name": "salt & pepper",
+        "name": "iodized fine sea salt & black pepper",
         "amountG": null,
         "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "smoked paprika",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
         "category": "dry"
       }
     ],
@@ -1167,6 +1305,24 @@
         "amountG": null,
         "displayUS": "3 tbsp",
         "category": "wet"
+      },
+      {
+        "name": "smoked paprika",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -1274,7 +1430,7 @@
         "category": "wet"
       },
       {
-        "name": "salt & pepper",
+        "name": "iodized fine sea salt & black pepper",
         "amountG": null,
         "displayUS": "to taste",
         "category": "dry"
@@ -1333,7 +1489,7 @@
         "category": "dry"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": 2.5,
         "displayUS": "1/2 tbsp",
         "category": "dry"
@@ -1351,7 +1507,7 @@
         "category": "wet"
       },
       {
-        "name": "blueberries",
+        "name": "wild blueberries (fresh or frozen — 2x antioxidants)",
         "amountG": 45,
         "displayUS": "1/4 serving",
         "category": "wet"
@@ -1379,6 +1535,12 @@
         "amountG": 75,
         "displayUS": "6-7 (~75g)",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -1454,7 +1616,7 @@
         "category": "dry"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": 2.5,
         "displayUS": "1/2 tbsp",
         "category": "dry"
@@ -1500,6 +1662,12 @@
         "amountG": 40,
         "displayUS": "3-4 (~40g)",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -1609,6 +1777,24 @@
         "amountG": 5,
         "displayUS": "1 tsp",
         "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -1631,9 +1817,13 @@
       {
         "step": 5,
         "text": "Remove pancake from the griddle and serve on a plate with toppings of choice."
+      },
+      {
+        "step": 6,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -1676,7 +1866,7 @@
         "category": "dry"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": 15,
         "displayUS": "3 tbsp",
         "category": "dry"
@@ -1698,6 +1888,30 @@
         "amountG": 60,
         "displayUS": "4 tbsp",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -1720,9 +1934,13 @@
       {
         "step": 5,
         "text": "Remove from the pan and serve. Repeat until you've cooked as many pancakes as you want."
+      },
+      {
+        "step": 6,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -1793,6 +2011,30 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -1811,9 +2053,13 @@
       {
         "step": 4,
         "text": "Remove pancake from the griddle and serve on a plate with toppings of choice."
+      },
+      {
+        "step": 5,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -1878,6 +2124,30 @@
         "amountG": null,
         "displayUS": "salt to taste",
         "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -1904,9 +2174,13 @@
       {
         "step": 6,
         "text": "Flip and cook the other side until it is golden brown."
+      },
+      {
+        "step": 7,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -1979,7 +2253,7 @@
         "category": "dry"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": 5,
         "displayUS": "1 tbsp",
         "category": "dry"
@@ -1995,6 +2269,30 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -2021,9 +2319,13 @@
       {
         "step": 6,
         "text": "Remove from the pan, serve and enjoy."
+      },
+      {
+        "step": 7,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -2078,7 +2380,7 @@
         "category": "wet"
       },
       {
-        "name": "blueberries",
+        "name": "wild blueberries (fresh or frozen — 2x antioxidants)",
         "amountG": null,
         "displayUS": "to taste",
         "category": "wet"
@@ -2088,6 +2390,18 @@
         "amountG": null,
         "displayUS": "to taste",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -2114,9 +2428,13 @@
       {
         "step": 6,
         "text": "Remove pancake from the griddle and serve on a plate with low-calorie syrup or leftover blueberries."
+      },
+      {
+        "step": 7,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -2187,6 +2505,24 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -2213,9 +2549,13 @@
       {
         "step": 6,
         "text": "Enjoy!"
+      },
+      {
+        "step": 7,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -2262,6 +2602,18 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -2276,9 +2628,13 @@
       {
         "step": 3,
         "text": "Remove pancake from the griddle and serve on a plate with toppings of choice."
+      },
+      {
+        "step": 4,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -2343,6 +2699,30 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -2365,6 +2745,10 @@
       {
         "step": 5,
         "text": "Flip once the bottom is golden brown or until desired doneness. Enjoy!"
+      },
+      {
+        "step": 6,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
     "recipeNotes": "A thick dairy-free cream cheese alternative works better than a thin yogurt in the filling or topping.",
@@ -2432,6 +2816,30 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -2454,9 +2862,13 @@
       {
         "step": 5,
         "text": "Flip the pancake when you feel like it and eat when ready (and don't forget to put the fork down)!!"
+      },
+      {
+        "step": 6,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -2487,7 +2899,7 @@
         "category": "dry"
       },
       {
-        "name": "water or unsweetened oat milk",
+        "name": "vitamin D-fortified unsweetened oat milk",
         "amountG": 30,
         "displayUS": "2 tbsp",
         "category": "wet"
@@ -2532,6 +2944,30 @@
         "name": "sugar-free chocolate chips (optional)",
         "amountG": 15,
         "displayUS": "15g",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
         "category": "dry"
       }
     ],
@@ -2604,7 +3040,7 @@
         "category": "wet"
       },
       {
-        "name": "fresh blueberries",
+        "name": "wild blueberries (fresh or frozen — 2x antioxidants)",
         "amountG": 180,
         "displayUS": "180g",
         "category": "wet"
@@ -2643,6 +3079,24 @@
         "name": "baking soda",
         "amountG": 2,
         "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
         "category": "dry"
       }
     ],
@@ -2697,7 +3151,7 @@
         "category": "wet"
       },
       {
-        "name": "unsweetened oat milk",
+        "name": "vitamin D-fortified unsweetened oat milk",
         "amountG": 45,
         "displayUS": "3 tbsp",
         "category": "wet"
@@ -2733,7 +3187,7 @@
         "category": "dry"
       },
       {
-        "name": "sea salt",
+        "name": "iodized fine sea salt",
         "amountG": null,
         "displayUS": "1/2 tsp",
         "category": "dry"
@@ -2761,6 +3215,24 @@
         "amountG": 80,
         "displayUS": "80g",
         "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -2797,7 +3269,7 @@
         "text": "Let the muffins cool in the molds for a few minutes before removing and serving."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -2862,6 +3334,36 @@
         "amountG": 5,
         "displayUS": "1 tsp",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -2882,7 +3384,7 @@
         "text": "Remove the muffins from the oven and allow to cool for 20 minutes before serving."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -2931,7 +3433,7 @@
         "category": "dry"
       },
       {
-        "name": "fresh blueberries",
+        "name": "wild blueberries (fresh or frozen — 2x antioxidants)",
         "amountG": 270,
         "displayUS": "270g",
         "category": "wet"
@@ -2958,6 +3460,30 @@
         "name": "baking soda",
         "amountG": 4,
         "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
         "category": "dry"
       }
     ],
@@ -2991,7 +3517,7 @@
         "text": "Let cool on a cooling rack and serve."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -3058,7 +3584,7 @@
         "category": "dry"
       },
       {
-        "name": "Kosher salt",
+        "name": "iodized fine sea salt",
         "amountG": null,
         "displayUS": "1 tsp",
         "category": "dry"
@@ -3073,6 +3599,24 @@
         "name": "Allulose/Monkfruit Blend",
         "amountG": null,
         "displayUS": "10 packets (3 tbsp)",
+        "category": "dry"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
         "category": "dry"
       }
     ],
@@ -3102,7 +3646,7 @@
         "text": "Remove from the oven and allow to cool down for at least 20 minutes before serving."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -3151,7 +3695,7 @@
         "category": "dry"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": 25,
         "displayUS": "5 tbsp",
         "category": "dry"
@@ -3181,7 +3725,7 @@
         "category": "dry"
       },
       {
-        "name": "Kosher salt",
+        "name": "iodized fine sea salt",
         "amountG": null,
         "displayUS": "1/2 tsp",
         "category": "dry"
@@ -3191,6 +3735,30 @@
         "amountG": 5,
         "displayUS": "1 tsp",
         "category": "wet"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -3215,7 +3783,7 @@
         "text": "Remove the muffins from the oven and allow to cool for 20 minutes before serving."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -3280,6 +3848,30 @@
         "amountG": 30,
         "displayUS": "5 tbsp",
         "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -3343,7 +3935,7 @@
         "category": "wet"
       },
       {
-        "name": "unsweetened oat milk",
+        "name": "vitamin D-fortified unsweetened oat milk",
         "amountG": 30,
         "displayUS": "2 tbsp",
         "category": "wet"
@@ -3409,10 +4001,34 @@
         "category": "dry"
       },
       {
-        "name": "unsweetened oat milk (frosting)",
+        "name": "vitamin D-fortified unsweetened oat milk",
         "amountG": 8,
         "displayUS": "1/2 tbsp",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "hemp hearts (optional topping)",
+        "amountG": 10,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -3437,7 +4053,7 @@
         "text": "Remove the muffins from the oven and allow to cool for 15 minutes before placing the icing on top and serving."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -3502,6 +4118,30 @@
         "amountG": 30,
         "displayUS": "5 tbsp",
         "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -3530,7 +4170,7 @@
         "text": "OPTIONAL: If you wish to add frosting, simply mix the thick unsweetened dairy-free yogurt with sunflower seed butter powder in a bowl, and then add a dollop to the top of each muffin."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -3573,7 +4213,7 @@
         "category": "wet"
       },
       {
-        "name": "salt & pepper",
+        "name": "iodized fine sea salt & black pepper",
         "amountG": null,
         "displayUS": "to taste",
         "category": "dry"
@@ -3595,6 +4235,12 @@
         "amountG": null,
         "displayUS": "for dipping (optional)",
         "category": "wet"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -3682,6 +4328,18 @@
         "amountG": 240,
         "displayUS": "1 cup",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -3695,7 +4353,7 @@
       },
       {
         "step": 3,
-        "text": "In a small bowl, mix the coconut aminos, sunflower seed butter powder and chili paste together well. Take the cooked chicken skewers and coat them in the sauce mixture by either brushing them with it or rolling them in the sauce to coat them completely."
+        "text": "In a small bowl, mix the coconut aminos, sunflower seed butter powder and chili paste together well. Take the cooked chicken skewers and coat them in the sauce mixture by either brushing them with it or rolling them in the sauce to coat them completely. (Internal temp: 165°F/74°C)"
       },
       {
         "step": 4,
@@ -3757,7 +4415,7 @@
         "category": "wet"
       },
       {
-        "name": "salt & pepper",
+        "name": "iodized fine sea salt & black pepper",
         "amountG": null,
         "displayUS": "to taste",
         "category": "dry"
@@ -3830,6 +4488,30 @@
         "amountG": 15,
         "displayUS": "15g (35 cal)",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -3897,6 +4579,24 @@
         "amountG": null,
         "displayUS": "side serving",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -3968,12 +4668,30 @@
         "amountG": null,
         "displayUS": "side serving",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
       }
     ],
     "instructions": [
       {
         "step": 1,
-        "text": "Heat a griddle over low-medium heat. Add chicken to the pan and cook on both sides with your choice of spices (to taste), until the meat is fully cooked through."
+        "text": "Heat a griddle over low-medium heat. Add chicken to the pan and cook on both sides with your choice of spices (to taste), until the meat is fully cooked through. (Internal temp: 165°F/74°C)"
       },
       {
         "step": 2,
@@ -4031,7 +4749,7 @@
         "category": "wet"
       },
       {
-        "name": "salt & pepper",
+        "name": "iodized fine sea salt & black pepper",
         "amountG": null,
         "displayUS": "to taste (optional)",
         "category": "dry"
@@ -4041,6 +4759,12 @@
         "amountG": null,
         "displayUS": "to taste (optional)",
         "category": "wet"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -4126,6 +4850,30 @@
         "amountG": null,
         "displayUS": "as desired",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -4189,6 +4937,30 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -4245,6 +5017,30 @@
         "name": "dairy-free cheese alternative",
         "amountG": null,
         "displayUS": "as needed",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
         "category": "dry"
       }
     ],
@@ -4471,6 +5267,18 @@
         "amountG": null,
         "displayUS": "as desired",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -4528,6 +5336,18 @@
         "amountG": null,
         "displayUS": "to taste",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -4591,6 +5411,18 @@
         "amountG": null,
         "displayUS": "sliced, to taste",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -4652,6 +5484,24 @@
         "amountG": null,
         "displayUS": "to taste",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -4709,6 +5559,24 @@
         "amountG": null,
         "displayUS": "sliced, to taste",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -4778,6 +5646,24 @@
         "amountG": null,
         "displayUS": "30 calories",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -4892,9 +5778,15 @@
         "category": "wet"
       },
       {
-        "name": "salt & pepper",
+        "name": "iodized fine sea salt & black pepper",
         "amountG": null,
         "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "ground turmeric",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
         "category": "dry"
       }
     ],
@@ -4909,7 +5801,7 @@
       },
       {
         "step": 3,
-        "text": "Season the chicken with salt and pepper and place on the grill. Cook over medium high heat for 3-5 minutes on each side or until the chicken is fully cooked. Remove the chicken from the grill and cut into 1-inch strips."
+        "text": "Season the chicken with salt and pepper and place on the grill. Cook over medium high heat for 3-5 minutes on each side or until the chicken is fully cooked. Remove the chicken from the grill and cut into 1-inch strips. (Internal temp: 165°F/74°C)"
       },
       {
         "step": 4,
@@ -5074,7 +5966,7 @@
         "category": "wet"
       },
       {
-        "name": "salt and pepper",
+        "name": "iodized fine sea salt & black pepper",
         "amountG": null,
         "displayUS": "to taste",
         "category": "dry"
@@ -5084,6 +5976,18 @@
         "amountG": null,
         "displayUS": "up to 10 cal",
         "category": "wet"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground turmeric",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -5106,6 +6010,10 @@
       {
         "step": 5,
         "text": "Top with two or more layers of lettuce. Serve and enjoy!"
+      },
+      {
+        "step": 6,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
     "recipeNotes": null,
@@ -5157,7 +6065,7 @@
         "category": "wet"
       },
       {
-        "name": "salt and pepper",
+        "name": "iodized fine sea salt & black pepper",
         "amountG": null,
         "displayUS": "to taste",
         "category": "dry"
@@ -5167,12 +6075,24 @@
         "amountG": null,
         "displayUS": "up to 10 cal",
         "category": "wet"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground turmeric",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
       {
         "step": 1,
-        "text": "Boil chicken breast in a pot of water until fully cooked for about 10-15 minutes."
+        "text": "Boil chicken breast in a pot of water until fully cooked for about 10-15 minutes. (Internal temp: 165°F/74°C)"
       },
       {
         "step": 2,
@@ -5201,6 +6121,10 @@
       {
         "step": 8,
         "text": "Serve and enjoy."
+      },
+      {
+        "step": 9,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
     "recipeNotes": null,
@@ -5244,6 +6168,18 @@
         "amountG": null,
         "displayUS": "up to 10 cal",
         "category": "wet"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -5262,6 +6198,10 @@
       {
         "step": 4,
         "text": "Lay the second slice of soy-free plant-based meat and top with lettuce and eat."
+      },
+      {
+        "step": 5,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
     "recipeNotes": null,
@@ -5311,6 +6251,24 @@
         "amountG": null,
         "displayUS": "5-10 calories",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -5325,6 +6283,10 @@
       {
         "step": 3,
         "text": "Add veggies of your choice. Top with lettuce and enjoy."
+      },
+      {
+        "step": 4,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
     "recipeNotes": null,
@@ -5368,6 +6330,24 @@
         "amountG": null,
         "displayUS": "1 tbsp",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -5382,6 +6362,10 @@
       {
         "step": 3,
         "text": "Add the remaining veggies on top of the tuna salad. Top with lettuce and eat as an open-faced sandwich."
+      },
+      {
+        "step": 4,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
     "recipeNotes": null,
@@ -5439,7 +6423,7 @@
         "category": "dry"
       },
       {
-        "name": "Kosher salt",
+        "name": "iodized fine sea salt",
         "amountG": null,
         "displayUS": "1/4 tsp",
         "category": "dry"
@@ -5454,6 +6438,18 @@
         "name": "basil",
         "amountG": null,
         "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
         "category": "dry"
       }
     ],
@@ -5555,6 +6551,18 @@
         "name": "flour, guar gum/xanthan, garlic powder, salt, oregano, basil",
         "amountG": null,
         "displayUS": "dry mix ingredients",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
         "category": "dry"
       }
     ],
@@ -5663,6 +6671,24 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -5683,7 +6709,7 @@
         "text": "Place the dairy-free cheese slices on the pizzas and place in the oven for 3 minutes. Remove from the oven and enjoy the melted deliciousness."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: portion into containers and refrigerate for up to 4 days.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -5736,6 +6762,24 @@
         "amountG": null,
         "displayUS": "as desired",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -5756,7 +6800,7 @@
         "text": "Place the dairy-free cheese slices on the pizzas and place in the oven for 3 minutes. Remove from the oven and enjoy the melted deliciousness."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: portion into containers and refrigerate for up to 4 days.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -5833,6 +6877,30 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -5972,6 +7040,30 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -6101,6 +7193,30 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -6232,6 +7348,30 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -6371,7 +7511,7 @@
         "text": "Transfer the salmon and asparagus to a plate and serve."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: portion into containers and refrigerate for up to 4 days.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -6438,16 +7578,22 @@
         "category": "wet"
       },
       {
-        "name": "salt and pepper",
+        "name": "iodized fine sea salt & black pepper",
         "amountG": null,
         "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "ground turmeric",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
         "category": "dry"
       }
     ],
     "instructions": [
       {
         "step": 1,
-        "text": "Spray a nonstick skillet with cooking spray and add the chicken. Sear the chicken on all sides."
+        "text": "Spray a nonstick skillet with cooking spray and add the chicken. Sear the chicken on all sides. (Internal temp: 165°F/74°C)"
       },
       {
         "step": 2,
@@ -6462,7 +7608,7 @@
         "text": "Remove from the heat and transfer the chicken cacciatore to a bowl. Garnish with fresh chopped parsley, serve and enjoy!"
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: portion into containers and refrigerate for up to 4 days.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -6517,7 +7663,7 @@
         "category": "dry"
       },
       {
-        "name": "salt",
+        "name": "iodized fine sea salt",
         "amountG": null,
         "displayUS": "1 tsp",
         "category": "dry"
@@ -6526,6 +7672,18 @@
         "name": "parsley flakes or Mrs. Dash",
         "amountG": null,
         "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground turmeric",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
         "category": "dry"
       }
     ],
@@ -6559,7 +7717,7 @@
         "text": "Remove from the air fryer, serve and enjoy."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: portion into containers and refrigerate for up to 4 days.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -6638,7 +7796,7 @@
         "category": "wet"
       },
       {
-        "name": "salt & pepper",
+        "name": "iodized fine sea salt & black pepper",
         "amountG": null,
         "displayUS": "to taste",
         "category": "dry"
@@ -6676,7 +7834,7 @@
         "text": "Remove the fish and vegetables from the oven, and plate and serve. Enjoy!"
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: portion into containers and refrigerate for up to 4 days.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -6729,6 +7887,24 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -6738,7 +7914,7 @@
       },
       {
         "step": 2,
-        "text": "Heat a pan over medium heat. Spray pan with cooking spray. Add veggies and chicken to pan and sauté until it is cooked through. Add spices to taste."
+        "text": "Heat a pan over medium heat. Spray pan with cooking spray. Add veggies and chicken to pan and sauté until it is cooked through. Add spices to taste. (Internal temp: 165°F/74°C)"
       },
       {
         "step": 3,
@@ -6749,7 +7925,7 @@
         "text": "Serve and eat altogether in a bowl."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: portion into containers and refrigerate for up to 4 days.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -6833,6 +8009,18 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground turmeric",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -6889,7 +8077,7 @@
         "text": "Put on a plate and eat slower than last time."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: portion into containers and refrigerate for up to 4 days.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -6971,7 +8159,7 @@
       },
       {
         "step": 4,
-        "text": "Place the cooked veggies in a blender with the salt, pepper, cilantro, coriander and chicken stock."
+        "text": "Place the cooked veggies in a blender with the salt, pepper, cilantro, coriander and chicken stock. (Internal temp: 165°F/74°C)"
       },
       {
         "step": 5,
@@ -6986,7 +8174,7 @@
         "text": "Chop the pork tenderloin up into small diced cuts and add to the green chile stew. Continue to cook at a low simmer for an additional 5 minutes. Remove from the heat and transfer to a bowl. Serve and enjoy!"
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: portion into containers and refrigerate for up to 4 days.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -7045,6 +8233,12 @@
         "amountG": null,
         "displayUS": "1/2 tsp",
         "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -7077,7 +8271,7 @@
         "text": "Once the sauce has thickened and the meatballs are covered in the gravy, transfer to a serving bowl and garnish with fresh chopped parsley. Serve with toothpicks so people can eat one at a time with them. Enjoy!"
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: portion into containers and refrigerate for up to 4 days.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -7132,8 +8326,20 @@
         "category": "dry"
       },
       {
-        "name": "salt",
+        "name": "iodized fine sea salt",
         "amountG": null,
+        "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
         "displayUS": "to taste",
         "category": "dry"
       }
@@ -7156,7 +8362,7 @@
         "text": "Serve with the remaining dairy-free sour cream alternative and any preferred spices and garnish."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: portion into containers and refrigerate for up to 4 days.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -7185,6 +8391,24 @@
         "amountG": null,
         "displayUS": "4 liters",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "freshly ground black pepper",
+        "amountG": 1,
+        "displayUS": "to taste",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -7205,7 +8429,7 @@
         "text": "Once dry, wrap the cauliflower in cheesecloth and squeeze out any additional liquid."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: portion into containers and refrigerate for up to 4 days.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -7242,10 +8466,16 @@
         "category": "wet"
       },
       {
-        "name": "salt and pepper",
+        "name": "iodized fine sea salt & black pepper",
         "amountG": null,
         "displayUS": "to taste",
         "category": "dry"
+      },
+      {
+        "name": "fresh lemon juice",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -7282,7 +8512,7 @@
         "text": "Remove the potato strips from the oven and allow to cool. Enjoy!"
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: portion into containers and refrigerate for up to 4 days.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -7343,9 +8573,15 @@
         "category": "wet"
       },
       {
-        "name": "salt & pepper",
+        "name": "iodized fine sea salt & black pepper",
         "amountG": null,
         "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "nutritional yeast (for B12 + umami)",
+        "amountG": 6,
+        "displayUS": "2 tbsp",
         "category": "dry"
       }
     ],
@@ -7375,7 +8611,7 @@
         "text": "Remove from the oven and serve. Top with green onion, dairy-free cheese alternative, & salt & pepper if desired."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: portion into containers and refrigerate for up to 4 days.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -7434,6 +8670,12 @@
         "amountG": null,
         "displayUS": "for sprinkling",
         "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -7452,6 +8694,10 @@
       {
         "step": 4,
         "text": "Sprinkle with cinnamon. Enjoy!"
+      },
+      {
+        "step": 5,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
     "recipeNotes": null,
@@ -7495,6 +8741,12 @@
         "amountG": 30,
         "displayUS": "2 tbsp",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -7513,6 +8765,10 @@
       {
         "step": 4,
         "text": "Remove from the freezer and top with fresh sliced strawberry, banana, or apple. Enjoy!"
+      },
+      {
+        "step": 5,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
     "recipeNotes": null,
@@ -7580,6 +8836,10 @@
       {
         "step": 4,
         "text": "Top the rice cakes with thinly sliced banana."
+      },
+      {
+        "step": 5,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
     "recipeNotes": null,
@@ -7619,7 +8879,7 @@
         "category": "wet"
       },
       {
-        "name": "fresh blueberries",
+        "name": "wild blueberries (fresh or frozen — 2x antioxidants)",
         "amountG": 135,
         "displayUS": "3/4 serving",
         "category": "wet"
@@ -7649,8 +8909,26 @@
         "category": "dry"
       },
       {
-        "name": "salt",
+        "name": "iodized fine sea salt",
         "amountG": null,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
         "displayUS": "1 tsp",
         "category": "dry"
       }
@@ -7730,7 +9008,7 @@
         "category": "dry"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": 20,
         "displayUS": "1/4 cup",
         "category": "dry"
@@ -7745,6 +9023,24 @@
         "name": "mini sugar-free chocolate chips",
         "amountG": 30,
         "displayUS": "2 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
         "category": "dry"
       }
     ],
@@ -7833,7 +9129,7 @@
         "category": "dry"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": 20,
         "displayUS": "1/4 cup",
         "category": "dry"
@@ -7848,6 +9144,24 @@
         "name": "mini sugar-free chocolate chips",
         "amountG": 15,
         "displayUS": "15g",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
         "category": "dry"
       }
     ],
@@ -7924,6 +9238,24 @@
         "amountG": 12,
         "displayUS": "2 tbsp / 3/4 tsp",
         "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -7942,6 +9274,10 @@
       {
         "step": 4,
         "text": "Spray a loaf pan with cooking spray. Pour the batter into the loaf pan and bake for 25-30 minutes or until a toothpick comes out clean."
+      },
+      {
+        "step": 5,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
     "recipeNotes": null,
@@ -8017,7 +9353,7 @@
         "category": "dry"
       },
       {
-        "name": "sea salt",
+        "name": "iodized fine sea salt",
         "amountG": null,
         "displayUS": "1/4 tsp",
         "category": "dry"
@@ -8027,6 +9363,24 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -8140,7 +9494,7 @@
         "category": "dry"
       },
       {
-        "name": "salt",
+        "name": "iodized fine sea salt",
         "amountG": null,
         "displayUS": "1/4 tsp",
         "category": "dry"
@@ -8198,6 +9552,24 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -8269,13 +9641,13 @@
         "category": "dry"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": 25,
         "displayUS": "5 tbsp",
         "category": "dry"
       },
       {
-        "name": "unsweetened oat milk",
+        "name": "vitamin D-fortified unsweetened oat milk",
         "amountG": 80,
         "displayUS": "1/3 cup",
         "category": "wet"
@@ -8321,6 +9693,30 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -8404,13 +9800,13 @@
         "category": "dry"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": 25,
         "displayUS": "5 tbsp",
         "category": "dry"
       },
       {
-        "name": "unsweetened oat milk",
+        "name": "vitamin D-fortified unsweetened oat milk",
         "amountG": 80,
         "displayUS": "1/3 cup",
         "category": "wet"
@@ -8450,6 +9846,30 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -8537,6 +9957,18 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -8563,9 +9995,13 @@
       {
         "step": 6,
         "text": "Chocolate bars should remain in the freezer until they are ready to be eaten. Eat within 5 minutes of removing from the freezer for best results."
+      },
+      {
+        "step": 7,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -8612,6 +10048,18 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -8638,9 +10086,13 @@
       {
         "step": 6,
         "text": "Chocolate protein bars should remain in the freezer until they are ready to be eaten."
+      },
+      {
+        "step": 7,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -8677,7 +10129,7 @@
         "category": "dry"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": 20,
         "displayUS": "1/4 cup",
         "category": "dry"
@@ -8705,6 +10157,18 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -8731,9 +10195,13 @@
       {
         "step": 6,
         "text": "Coconut protein bars should remain in the freezer until they are ready to be eaten."
+      },
+      {
+        "step": 7,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -8770,7 +10238,7 @@
         "category": "wet"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": 20,
         "displayUS": "1/4 cup",
         "category": "dry"
@@ -8792,6 +10260,18 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -8818,9 +10298,13 @@
       {
         "step": 6,
         "text": "Chocolate bars should remain in the freezer until they are ready to be eaten. Eat within 5 minutes of removing from the freezer for best results."
+      },
+      {
+        "step": 7,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -8857,7 +10341,7 @@
         "category": "wet"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": 20,
         "displayUS": "4 tbsp",
         "category": "dry"
@@ -8873,6 +10357,18 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -8899,9 +10395,13 @@
       {
         "step": 6,
         "text": "Chocolate bars should remain in the freezer until they are ready to be eaten. Eat within 5 minutes of removing from the freezer for best results."
+      },
+      {
+        "step": 7,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -8938,7 +10438,7 @@
         "category": "wet"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": 20,
         "displayUS": "1/4 cup",
         "category": "dry"
@@ -8960,6 +10460,18 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -8986,9 +10498,13 @@
       {
         "step": 6,
         "text": "Chocolate bars should remain in the freezer until they are ready to be eaten."
+      },
+      {
+        "step": 7,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -9035,6 +10551,18 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "psyllium husk powder",
+        "amountG": 3,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -9061,9 +10589,13 @@
       {
         "step": 6,
         "text": "Chocolate bars should remain in the freezer until they are ready to be eaten."
+      },
+      {
+        "step": 7,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
-    "recipeNotes": null,
+    "recipeNotes": "Meal prep friendly: stores in airtight container for 3-4 days in the fridge, or freeze for up to 3 months.",
     "dietaryFlags": {
       "glutenFree": true,
       "dairyFree": true,
@@ -9109,6 +10641,12 @@
         "name": "Allulose/Monkfruit Blend",
         "amountG": null,
         "displayUS": "to taste",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
         "category": "dry"
       }
     ],
@@ -9175,6 +10713,12 @@
         "amountG": null,
         "displayUS": "scoops to taste",
         "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -9239,6 +10783,12 @@
         "name": "dairy-free, soy-free protein powder",
         "amountG": null,
         "displayUS": "scoops to taste",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
         "category": "dry"
       }
     ],
@@ -9317,6 +10867,24 @@
         "amountG": null,
         "displayUS": "1 liter",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "collagen peptides (unflavored)",
+        "amountG": 12,
+        "displayUS": "1 scoop",
+        "category": "dry"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -9406,6 +10974,24 @@
         "amountG": 5,
         "displayUS": "1 tsp",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -9455,7 +11041,7 @@
         "category": "wet"
       },
       {
-        "name": "unsweetened oat milk",
+        "name": "vitamin D-fortified unsweetened oat milk",
         "amountG": 240,
         "displayUS": "1 cup",
         "category": "wet"
@@ -9497,7 +11083,7 @@
         "category": "dry"
       },
       {
-        "name": "salt",
+        "name": "iodized fine sea salt",
         "amountG": null,
         "displayUS": "pinch",
         "category": "dry"
@@ -9525,6 +11111,24 @@
         "amountG": 15,
         "displayUS": "up to 1 tbsp",
         "category": "wet"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "collagen peptides (unflavored)",
+        "amountG": 12,
+        "displayUS": "1 scoop",
+        "category": "dry"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -9618,7 +11222,7 @@
         "category": "wet"
       },
       {
-        "name": "sea salt",
+        "name": "iodized fine sea salt",
         "amountG": null,
         "displayUS": "1/4 tsp",
         "category": "dry"
@@ -9639,6 +11243,18 @@
         "name": "baking powder",
         "amountG": null,
         "displayUS": "1/2 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
         "category": "dry"
       }
     ],
@@ -9733,6 +11349,24 @@
         "amountG": 45,
         "displayUS": "3 tbsp",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -9800,6 +11434,12 @@
         "amountG": null,
         "displayUS": "for shake/ice cream base",
         "category": "wet"
+      },
+      {
+        "name": "chia seeds",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -9885,7 +11525,7 @@
         "category": "wet"
       },
       {
-        "name": "unsweetened oat milk",
+        "name": "vitamin D-fortified unsweetened oat milk",
         "amountG": 720,
         "displayUS": "3 cups (90 cal)",
         "category": "wet"
@@ -9921,7 +11561,7 @@
         "category": "dry"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": 15,
         "displayUS": "3 tbsp",
         "category": "dry"
@@ -9930,6 +11570,30 @@
         "name": "Allulose/Monkfruit Blend",
         "amountG": null,
         "displayUS": "10 packets (3/8 cup) to taste",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "chia seeds",
+        "amountG": 5,
+        "displayUS": "1 tsp",
         "category": "dry"
       }
     ],
@@ -9984,6 +11648,18 @@
         "amountG": null,
         "displayUS": "1/2 serving (up to 50 cal)",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "chia seeds",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -10021,7 +11697,7 @@
         "category": "wet"
       },
       {
-        "name": "unsweetened oat milk",
+        "name": "vitamin D-fortified unsweetened oat milk",
         "amountG": 120,
         "displayUS": "1/2 cup",
         "category": "wet"
@@ -10042,6 +11718,30 @@
         "name": "dairy-free, soy-free chocolate pudding mix",
         "amountG": null,
         "displayUS": "1 packet (140 cal)",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "chia seeds",
+        "amountG": 5,
+        "displayUS": "1 tsp",
         "category": "dry"
       }
     ],
@@ -10102,6 +11802,18 @@
         "amountG": 15,
         "displayUS": "1 tbsp",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "chia seeds",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -10143,7 +11855,7 @@
         "category": "wet"
       },
       {
-        "name": "unsweetened oat milk",
+        "name": "vitamin D-fortified unsweetened oat milk",
         "amountG": 1000,
         "displayUS": "~4 1/2 cups",
         "category": "wet"
@@ -10170,6 +11882,30 @@
         "name": "Allulose/Monkfruit Blend",
         "amountG": null,
         "displayUS": "10 packets (~6 tbsp)",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "chia seeds",
+        "amountG": 5,
+        "displayUS": "1 tsp",
         "category": "dry"
       }
     ],
@@ -10264,7 +12000,7 @@
         "category": "dry"
       },
       {
-        "name": "sea salt",
+        "name": "iodized fine sea salt",
         "amountG": null,
         "displayUS": "1/4 tsp",
         "category": "dry"
@@ -10297,6 +12033,18 @@
         "name": "Allulose/Monkfruit Blend",
         "amountG": null,
         "displayUS": "15 packets (5/8 cup) to taste",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
         "category": "dry"
       }
     ],
@@ -10347,7 +12095,7 @@
         "category": "dry"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": 5,
         "displayUS": "1 tbsp",
         "category": "dry"
@@ -10375,6 +12123,12 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -10385,6 +12139,10 @@
       {
         "step": 2,
         "text": "Place the mug/container into the microwave and cook on high for 30 seconds (If not finished, cook for 10 seconds at a time). Do not overcook, ensure the centre is still gooey!"
+      },
+      {
+        "step": 3,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
     "recipeNotes": null,
@@ -10412,7 +12170,7 @@
         "category": "dry"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": 5,
         "displayUS": "1 tbsp",
         "category": "dry"
@@ -10446,6 +12204,12 @@
         "amountG": null,
         "displayUS": "as needed",
         "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -10456,6 +12220,10 @@
       {
         "step": 2,
         "text": "Place the mug/container into the microwave and cook on high for 30 seconds (If not finished, cook for 10 seconds at a time). Do not overcook, ensure the centre is very gooey!"
+      },
+      {
+        "step": 3,
+        "text": "Let cool completely before serving — GF baked goods firm up and improve in texture as they cool. For best results, rest 15-20 minutes."
       }
     ],
     "recipeNotes": null,
@@ -10495,7 +12263,7 @@
         "category": "dry"
       },
       {
-        "name": "unsweetened oat milk",
+        "name": "vitamin D-fortified unsweetened oat milk",
         "amountG": 90,
         "displayUS": "3/8 cup",
         "category": "wet"
@@ -10504,6 +12272,30 @@
         "name": "ice",
         "amountG": null,
         "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh ginger (anti-inflammatory)",
+        "amountG": 2,
+        "displayUS": "1/4 tsp grated",
         "category": "wet"
       }
     ],
@@ -10564,7 +12356,7 @@
         "category": "dry"
       },
       {
-        "name": "unsweetened oat milk",
+        "name": "vitamin D-fortified unsweetened oat milk",
         "amountG": 90,
         "displayUS": "3/8 cup",
         "category": "wet"
@@ -10579,6 +12371,30 @@
         "name": "ice",
         "amountG": null,
         "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh ginger (anti-inflammatory)",
+        "amountG": 2,
+        "displayUS": "1/4 tsp grated",
         "category": "wet"
       }
     ],
@@ -10627,7 +12443,7 @@
         "category": "wet"
       },
       {
-        "name": "salt",
+        "name": "iodized fine sea salt",
         "amountG": null,
         "displayUS": "pinch",
         "category": "dry"
@@ -10651,7 +12467,7 @@
         "category": "dry"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": null,
         "displayUS": "to taste",
         "category": "dry"
@@ -10660,6 +12476,12 @@
         "name": "ice",
         "amountG": null,
         "displayUS": "as needed",
+        "category": "wet"
+      },
+      {
+        "name": "fresh ginger (anti-inflammatory)",
+        "amountG": 2,
+        "displayUS": "1/4 tsp grated",
         "category": "wet"
       }
     ],
@@ -10702,7 +12524,7 @@
         "category": "wet"
       },
       {
-        "name": "salt",
+        "name": "iodized fine sea salt",
         "amountG": null,
         "displayUS": "pinch",
         "category": "dry"
@@ -10741,6 +12563,18 @@
         "name": "Walden Farms low-calorie syrup",
         "amountG": null,
         "displayUS": "for topping (optional)",
+        "category": "wet"
+      },
+      {
+        "name": "acacia fiber powder (prebiotic)",
+        "amountG": 6,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh ginger (anti-inflammatory)",
+        "amountG": 2,
+        "displayUS": "1/4 tsp grated",
         "category": "wet"
       }
     ],
@@ -10819,7 +12653,7 @@
         "category": "dry"
       },
       {
-        "name": "salt",
+        "name": "iodized fine sea salt",
         "amountG": 2,
         "displayUS": "2g",
         "category": "dry"
@@ -10834,6 +12668,18 @@
         "name": "water",
         "amountG": 80,
         "displayUS": "80g",
+        "category": "wet"
+      },
+      {
+        "name": "acacia fiber powder (prebiotic)",
+        "amountG": 6,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh ginger (anti-inflammatory)",
+        "amountG": 2,
+        "displayUS": "1/4 tsp grated",
         "category": "wet"
       }
     ],
@@ -10892,7 +12738,7 @@
         "category": "wet"
       },
       {
-        "name": "salt",
+        "name": "iodized fine sea salt",
         "amountG": null,
         "displayUS": "pinch",
         "category": "dry"
@@ -10916,7 +12762,7 @@
         "category": "dry"
       },
       {
-        "name": "cocoa powder",
+        "name": "raw cacao powder (higher antioxidants)",
         "amountG": null,
         "displayUS": "to taste",
         "category": "dry"
@@ -10944,6 +12790,18 @@
         "amountG": null,
         "displayUS": "for topping",
         "category": "dry"
+      },
+      {
+        "name": "acacia fiber powder (prebiotic)",
+        "amountG": 6,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh ginger (anti-inflammatory)",
+        "amountG": 2,
+        "displayUS": "1/4 tsp grated",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -11021,7 +12879,7 @@
         "category": "wet"
       },
       {
-        "name": "salt",
+        "name": "iodized fine sea salt",
         "amountG": null,
         "displayUS": "1/2 tsp",
         "category": "dry"
@@ -11055,6 +12913,18 @@
         "amountG": null,
         "displayUS": "1/2 packet",
         "category": "dry"
+      },
+      {
+        "name": "acacia fiber powder (prebiotic)",
+        "amountG": 6,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh ginger (anti-inflammatory)",
+        "amountG": 2,
+        "displayUS": "1/4 tsp grated",
+        "category": "wet"
       }
     ],
     "instructions": [
@@ -11152,7 +13022,7 @@
         "category": "dry"
       },
       {
-        "name": "salt",
+        "name": "iodized fine sea salt",
         "amountG": 1,
         "displayUS": "1g",
         "category": "dry"
@@ -11167,6 +13037,24 @@
         "name": "ice",
         "amountG": 420,
         "displayUS": "420g",
+        "category": "wet"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh ginger (anti-inflammatory)",
+        "amountG": 2,
+        "displayUS": "1/4 tsp grated",
         "category": "wet"
       }
     ],
@@ -11261,7 +13149,7 @@
         "category": "wet"
       },
       {
-        "name": "unsweetened oat milk",
+        "name": "vitamin D-fortified unsweetened oat milk",
         "amountG": 90,
         "displayUS": "3/8 cup",
         "category": "wet"
@@ -11288,6 +13176,30 @@
         "name": "ice",
         "amountG": null,
         "displayUS": "2 cups",
+        "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "fresh ginger (anti-inflammatory)",
+        "amountG": 2,
+        "displayUS": "1/4 tsp grated",
         "category": "wet"
       }
     ],
@@ -11324,7 +13236,7 @@
     "cookTime": "4 hours (freeze)",
     "ingredients": [
       {
-        "name": "unsweetened oat milk",
+        "name": "vitamin D-fortified unsweetened oat milk",
         "amountG": 240,
         "displayUS": "1 cup",
         "category": "wet"
@@ -11363,6 +13275,30 @@
         "name": "Allulose/Monkfruit Blend",
         "amountG": null,
         "displayUS": "5 packets (~3 tbsp) to taste",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "chia seeds",
+        "amountG": 5,
+        "displayUS": "1 tsp",
         "category": "dry"
       }
     ],
@@ -11439,6 +13375,18 @@
         "amountG": null,
         "displayUS": "5 packets (~3 tbsp) to taste",
         "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "chia seeds",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "dry"
       }
     ],
     "instructions": [
@@ -11474,7 +13422,7 @@
     "cookTime": "4 hours (freeze)",
     "ingredients": [
       {
-        "name": "unsweetened oat milk",
+        "name": "vitamin D-fortified unsweetened oat milk",
         "amountG": 360,
         "displayUS": "1 1/2 cups",
         "category": "wet"
@@ -11513,6 +13461,30 @@
         "name": "Allulose/Monkfruit Blend",
         "amountG": null,
         "displayUS": "12 packets (1/2 cup) to taste",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "apple cider vinegar",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "chia seeds",
+        "amountG": 5,
+        "displayUS": "1 tsp",
         "category": "dry"
       }
     ],
@@ -11582,6 +13554,18 @@
         "name": "Allulose/Monkfruit Blend",
         "amountG": null,
         "displayUS": "10 packets (3/8 cup) to taste",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "chia seeds",
+        "amountG": 5,
+        "displayUS": "1 tsp",
         "category": "dry"
       }
     ],
