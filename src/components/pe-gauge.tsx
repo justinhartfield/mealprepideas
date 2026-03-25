@@ -13,10 +13,8 @@ export function PEGauge({ peRatio, nutrients }: PEGaugeProps) {
   const rating = getPERating(peRatio);
   const macros = calculateMacroPercentages(nutrients);
 
-  // SVG arc parameters
   const cx = 150, cy = 140, r = 120;
 
-  // Create arc path for a segment
   const arcPath = (startAngle: number, endAngle: number) => {
     const startRad = (Math.PI * (180 + startAngle)) / 180;
     const endRad = (Math.PI * (180 + endAngle)) / 180;
@@ -28,26 +26,32 @@ export function PEGauge({ peRatio, nutrients }: PEGaugeProps) {
     return `M ${x1} ${y1} A ${r} ${r} 0 ${largeArc} 1 ${x2} ${y2}`;
   };
 
-  // Color zones mapped to P:E ranges (angles)
   const zones = [
-    { start: 0, end: 25.7, color: "#b91c1c" },   // 0-0.5 Poor
-    { start: 25.7, end: 51.4, color: "#f97316" },  // 0.5-1.0 Low
-    { start: 51.4, end: 77.1, color: "#f59e0b" },  // 1.0-1.5 Moderate
-    { start: 77.1, end: 128.6, color: "#22c55e" }, // 1.5-2.5 Good
-    { start: 128.6, end: 180, color: "#0a4d33" },  // 2.5+ Excellent
+    { start: 0, end: 25.7, color: "#b91c1c" },
+    { start: 25.7, end: 51.4, color: "#f97316" },
+    { start: 51.4, end: 77.1, color: "#f59e0b" },
+    { start: 77.1, end: 128.6, color: "#22c55e" },
+    { start: 128.6, end: 180, color: "#0a4d33" },
   ];
 
-  // Needle endpoint
-  const needleAngle = (Math.PI * (180 + angle)) / 180;
-  const needleLen = r - 15;
-  const nx = cx + needleLen * Math.cos(needleAngle);
-  const ny = cy + needleLen * Math.sin(needleAngle);
+  // Needle: compute endpoint directly from angle (no CSS transform needed)
+  const needleRad = (Math.PI * (180 + angle)) / 180;
+  const needleLen = r - 20;
+  const nx = cx + needleLen * Math.cos(needleRad);
+  const ny = cy + needleLen * Math.sin(needleRad);
+
+  // Needle triangle (wider base for visibility)
+  const baseOffset = 6;
+  const perpRad = needleRad + Math.PI / 2;
+  const bx1 = cx + baseOffset * Math.cos(perpRad);
+  const by1 = cy + baseOffset * Math.sin(perpRad);
+  const bx2 = cx - baseOffset * Math.cos(perpRad);
+  const by2 = cy - baseOffset * Math.sin(perpRad);
 
   return (
     <div className="w-full">
-      {/* Gauge */}
       <div className="relative max-w-md mx-auto">
-        <svg viewBox="0 0 300 170" className="w-full">
+        <svg viewBox="0 0 300 175" className="w-full">
           {/* Background arc zones */}
           {zones.map((zone, i) => (
             <path
@@ -55,27 +59,36 @@ export function PEGauge({ peRatio, nutrients }: PEGaugeProps) {
               d={arcPath(zone.start, zone.end)}
               fill="none"
               stroke={zone.color}
-              strokeWidth={20}
+              strokeWidth={24}
               strokeLinecap="butt"
-              opacity={0.3}
+              opacity={0.2}
             />
           ))}
 
-          {/* Active arc up to current value */}
+          {/* Active arc */}
           {angle > 0 && (
             <motion.path
               d={arcPath(0, Math.min(angle, 180))}
               fill="none"
               stroke={rating.color}
-              strokeWidth={20}
-              strokeLinecap="butt"
+              strokeWidth={24}
+              strokeLinecap="round"
               initial={{ pathLength: 0 }}
               animate={{ pathLength: 1 }}
-              transition={{ duration: 1, ease: "easeOut" }}
+              transition={{ duration: 1.2, ease: "easeOut" }}
             />
           )}
 
-          {/* Needle */}
+          {/* Needle — triangle pointer (no CSS transforms) */}
+          <motion.polygon
+            points={`${nx},${ny} ${bx1},${by1} ${bx2},${by2}`}
+            fill="#1a1a1a"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.5, duration: 0.5 }}
+          />
+
+          {/* Needle line for extra visibility */}
           <motion.line
             x1={cx}
             y1={cy}
@@ -84,34 +97,34 @@ export function PEGauge({ peRatio, nutrients }: PEGaugeProps) {
             stroke="#1a1a1a"
             strokeWidth={3}
             strokeLinecap="round"
-            initial={{ rotate: -90, originX: `${cx}px`, originY: `${cy}px` }}
-            animate={{ rotate: angle - 90 }}
-            transition={{ type: "spring", stiffness: 60, damping: 15 }}
-            style={{ transformOrigin: `${cx}px ${cy}px` }}
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.5, duration: 0.5 }}
           />
 
           {/* Center dot */}
-          <circle cx={cx} cy={cy} r={6} fill="#1a1a1a" />
+          <circle cx={cx} cy={cy} r={8} fill="#1a1a1a" />
+          <circle cx={cx} cy={cy} r={4} fill={rating.color} />
 
           {/* Scale labels */}
-          <text x={30} y={145} className="text-[10px] fill-[#a8a29e] font-bold">0</text>
-          <text x={140} y={18} className="text-[10px] fill-[#a8a29e] font-bold">1.75</text>
-          <text x={260} y={145} className="text-[10px] fill-[#a8a29e] font-bold">3.5</text>
+          <text x={22} y={148} fontSize="11" fill="#78716c" fontWeight="700">0</text>
+          <text x={134} y={16} fontSize="11" fill="#78716c" fontWeight="700">1.75</text>
+          <text x={258} y={148} fontSize="11" fill="#78716c" fontWeight="700">3.5</text>
         </svg>
 
         {/* Center value overlay */}
-        <div className="absolute bottom-2 left-1/2 -translate-x-1/2 text-center">
-          <p className="font-['Anton'] text-5xl text-[#1a1a1a] leading-none">
+        <div className="absolute bottom-4 left-1/2 -translate-x-1/2 text-center">
+          <p className="font-['Anton'] text-6xl text-[#1a1a1a] dark:text-white leading-none">
             {peRatio.toFixed(1)}
           </p>
-          <p className="text-xs font-black uppercase tracking-widest mt-1" style={{ color: rating.color }}>
+          <p className="text-sm font-black uppercase tracking-widest mt-1" style={{ color: rating.color }}>
             {rating.label}
           </p>
         </div>
       </div>
 
       {/* Macro Bars */}
-      <div className="mt-8 space-y-3 max-w-md mx-auto">
+      <div className="mt-8 space-y-4 max-w-md mx-auto">
         <MacroBar label="Protein" pct={macros.proteinPct} grams={nutrients.protein} color="#3B82F6" />
         <MacroBar label="Fat" pct={macros.fatPct} grams={nutrients.totalFat} color="#EAB308" />
         <MacroBar label="Carbs" pct={macros.carbPct} grams={nutrients.totalCarbs} color="#EF4444" />
@@ -126,17 +139,17 @@ function MacroBar({ label, pct, grams, color, suffix = "%" }: {
 }) {
   return (
     <div className="flex items-center gap-4">
-      <span className="text-[10px] font-black text-[#a8a29e] tracking-widest uppercase w-16">{label}</span>
-      <div className="flex-1 h-3 bg-black/5 overflow-hidden">
+      <span className="text-[11px] font-black text-[#78716c] tracking-widest uppercase w-16">{label}</span>
+      <div className="flex-1 h-4 bg-black/10 dark:bg-white/10 overflow-hidden rounded-sm">
         <motion.div
-          className="h-full"
+          className="h-full rounded-sm"
           style={{ backgroundColor: color }}
           initial={{ width: 0 }}
           animate={{ width: `${Math.min(pct, 100)}%` }}
           transition={{ duration: 0.8, ease: "easeOut" }}
         />
       </div>
-      <span className="text-xs font-bold text-[#1a1a1a] w-20 text-right">
+      <span className="text-sm font-bold text-[#1a1a1a] dark:text-white w-24 text-right">
         {grams}g ({pct}{suffix})
       </span>
     </div>

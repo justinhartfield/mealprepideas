@@ -10,6 +10,7 @@ import {
   CheckCircle2,
   ArrowRight
 } from 'lucide-react';
+import { ThemeToggle } from '@/components/theme-toggle';
 
 const anton = Anton({
   weight: '400',
@@ -84,9 +85,12 @@ export default function HomePage() {
               <a key={item} href="#" className="text-[#78716c] hover:text-[#f59e0b] font-bold text-xs uppercase tracking-[0.2em] transition-colors">{item}</a>
             ))}
           </nav>
-          <button className="bg-[#1a1a1a] text-white px-8 py-4 font-bold text-xs uppercase tracking-widest hover:bg-[#f59e0b] transition-colors">
-            Get Cookbook
-          </button>
+          <div className="flex items-center gap-3">
+            <ThemeToggle />
+            <button className="bg-[#1a1a1a] text-white px-8 py-4 font-bold text-xs uppercase tracking-widest hover:bg-[#f59e0b] transition-colors">
+              Get Cookbook
+            </button>
+          </div>
         </div>
       </header>
 
