@@ -185,7 +185,7 @@ const INGREDIENT_DB: Record<string, IngredientEntry> = {
     macrosPer100g: { calories: 247, protein: 4.0, totalFat: 1.2, saturatedFat: 0.3, cholesterol: 0, sodium: 10, totalCarbs: 80.6, dietaryFiber: 53.1, totalSugars: 2.2, iron: 8.3, calcium: 1002, potassium: 431, vitaminD: 0 },
   },
   "sweetener": {
-    name: "Zero-Calorie Sweetener",
+    name: "Allulose/Monkfruit Blend",
     macrosPer100g: { calories: 0, protein: 0, totalFat: 0, saturatedFat: 0, cholesterol: 0, sodium: 0, totalCarbs: 4, dietaryFiber: 0, totalSugars: 0, iron: 0, calcium: 0, potassium: 0, vitaminD: 0 },
   },
   "vanilla-extract": {

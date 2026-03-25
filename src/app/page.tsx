@@ -81,9 +81,11 @@ export default function HomePage() {
             MEAL<span className="text-[#f59e0b]">PREP</span>IDEAS
           </a>
           <nav className="hidden lg:flex space-x-12">
-            {['Recipes', 'Categories', 'P:E Chart', 'Substitutions'].map((item) => (
-              <a key={item} href="#" className="text-[#78716c] hover:text-[#f59e0b] font-bold text-xs uppercase tracking-[0.2em] transition-colors">{item}</a>
-            ))}
+            <a href="#recipes" className="text-[#78716c] hover:text-[#f59e0b] font-bold text-xs uppercase tracking-[0.2em] transition-colors">Recipes</a>
+            <a href="/category/breakfast" className="text-[#78716c] hover:text-[#f59e0b] font-bold text-xs uppercase tracking-[0.2em] transition-colors">Breakfast</a>
+            <a href="/category/dinner" className="text-[#78716c] hover:text-[#f59e0b] font-bold text-xs uppercase tracking-[0.2em] transition-colors">Dinner</a>
+            <a href="/category/treats" className="text-[#78716c] hover:text-[#f59e0b] font-bold text-xs uppercase tracking-[0.2em] transition-colors">Treats</a>
+            <a href="/category/shakes" className="text-[#78716c] hover:text-[#f59e0b] font-bold text-xs uppercase tracking-[0.2em] transition-colors">Shakes</a>
           </nav>
           <div className="flex items-center gap-3">
             <ThemeToggle />
