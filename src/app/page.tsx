@@ -11,6 +11,9 @@ import {
   ArrowRight
 } from 'lucide-react';
 import { ThemeToggle } from '@/components/theme-toggle';
+import { getAllRecipes, getIngredientDB } from '@/data/recipe-data';
+import { calculateIngredientNutrients, sumNutrients, divideNutrients, calculatePERatio } from '@/lib/nutrition-engine';
+import type { NutrientProfile } from '@/lib/nutrition-engine';
 
 const anton = Anton({
   weight: '400',
@@ -25,15 +28,27 @@ const inter = Inter({
 
 type Allergen = 'GF' | 'DF' | 'SF' | 'NF' | 'EF';
 
-interface Recipe {
-  id: string;
-  title: string;
-  category: string;
-  protein: number;
-  calories: number;
-  peRatio: number;
-  allergens: Allergen[];
-}
+const ingredientDB = getIngredientDB();
+const allRecipes = getAllRecipes();
+
+// Pre-compute nutrition for all recipes
+const recipesWithNutrition = allRecipes.map(r => {
+  const profiles = r.ingredients.map(ing => {
+    const db = ingredientDB[ing.id];
+    if (!db) return null;
+    return calculateIngredientNutrients(db.macrosPer100g, ing.amountG);
+  }).filter(Boolean) as NutrientProfile[];
+  const perRecipe = sumNutrients(profiles);
+  const perServing = divideNutrients(perRecipe, r.servings || 1);
+  const peRatio = calculatePERatio(perServing);
+  const allergens: Allergen[] = [];
+  if (r.dietary.glutenFree) allergens.push('GF');
+  if (r.dietary.dairyFree) allergens.push('DF');
+  if (r.dietary.soyFree) allergens.push('SF');
+  if (r.dietary.nutFree) allergens.push('NF');
+  if (r.dietary.eggFree) allergens.push('EF');
+  return { slug: r.slug, title: r.title, category: r.category, protein: Math.round(perServing.protein), calories: perServing.calories, peRatio, allergens };
+});
 
 const CATEGORIES = [
   { name: 'Breakfast', count: 36, emoji: '🍳', href: '/category/breakfast' },
@@ -46,14 +61,7 @@ const CATEGORIES = [
   { name: 'Proteinsicles', count: 4, emoji: '🧊', href: '/category/proteinsicles' },
 ];
 
-const FEATURED_RECIPES: Recipe[] = [
-  { id: '1', title: 'Anabolic Meat Lasagna', category: 'Dinner', protein: 52, calories: 410, peRatio: 1.8, allergens: ['GF', 'DF', 'SF', 'NF'] },
-  { id: '2', title: 'Apple Protein Pancakes', category: 'Breakfast', protein: 35, calories: 280, peRatio: 2.1, allergens: ['GF', 'DF', 'SF', 'NF'] },
-  { id: '3', title: 'Blueberry Protein Shake', category: 'Shakes', protein: 40, calories: 210, peRatio: 3.2, allergens: ['GF', 'DF', 'SF', 'NF'] },
-  { id: '4', title: 'Chocolate Protein Cookies', category: 'Treats', protein: 12, calories: 120, peRatio: 1.4, allergens: ['GF', 'DF', 'SF', 'NF'] },
-  { id: '5', title: 'Strawberry Proteinsicles', category: 'Proteinsicles', protein: 18, calories: 95, peRatio: 2.8, allergens: ['GF', 'DF', 'SF', 'NF'] },
-  { id: '6', title: 'Grilled Chicken Wrap', category: 'Sandwiches', protein: 45, calories: 380, peRatio: 1.9, allergens: ['GF', 'DF', 'SF', 'NF'] },
-];
+// No hardcoded recipes — using real data from all 135 recipes
 
 export default function HomePage() {
   const [searchQuery, setSearchQuery] = useState('');
@@ -65,7 +73,7 @@ export default function HomePage() {
   };
 
   const filteredRecipes = useMemo(() => {
-    return FEATURED_RECIPES.filter(recipe => {
+    return recipesWithNutrition.filter(recipe => {
       const matchesSearch = recipe.title.toLowerCase().includes(searchQuery.toLowerCase());
       const matchesAllergens = activeAllergens.every(a => recipe.allergens.includes(a));
       const matchesPe = recipe.peRatio >= minPe;
@@ -179,12 +187,12 @@ export default function HomePage() {
 
       <section className="py-24 max-w-7xl mx-auto px-6">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {filteredRecipes.map((recipe) => (
-            <div key={recipe.id} className="bg-white border border-black/5 hover:border-[#f59e0b]/30 transition-all group flex flex-col">
+          {filteredRecipes.slice(0, 12).map((recipe) => (
+            <a key={recipe.slug} href={`/recipe/${recipe.slug}`} className="bg-white border border-black/5 hover:border-[#f59e0b]/30 transition-all group flex flex-col">
               <div className="aspect-[4/3] bg-[#f1f5f0] overflow-hidden relative">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src={`https://cfls.b-cdn.net/mealprepideas/${recipe.id === '1' ? 'anabolic-french-toast' : recipe.id === '2' ? 'apple-protein-pancakes' : recipe.id === '3' ? 'blueberry-protein-shake' : recipe.id === '4' ? 'chocolate-protein-cookies' : recipe.id === '5' ? 'chocolate-strawberry-almond-proteinsicles' : 'hot-hamburg-maritime-favorite'}.webp`}
+                  src={`https://cfls.b-cdn.net/mealprepideas/${recipe.slug}.webp`}
                   alt={recipe.title}
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                   onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
@@ -207,7 +215,7 @@ export default function HomePage() {
                   <div className="bg-[#0a4d33] text-white px-4 py-2 text-sm font-black italic">P:E {recipe.peRatio}</div>
                 </div>
               </div>
-            </div>
+            </a>
           ))}
         </div>
         {filteredRecipes.length === 0 && (
