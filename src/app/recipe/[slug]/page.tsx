@@ -296,8 +296,9 @@ function IngredientColumn({
       <div className="space-y-1">
         {ingredients.map((ing) => {
           const isExpanded = expandedId === ing.originalId;
-          const dbEntry = ingredientDB[ing.id];
-          const subs = dbEntry?.substitutes ?? [];
+          // Always use ORIGINAL ingredient's substitutes so swapped ingredients stay swappable
+          const originalDbEntry = ingredientDB[ing.originalId];
+          const subs = originalDbEntry?.substitutes ?? [];
 
           return (
             <div key={ing.originalId}>
