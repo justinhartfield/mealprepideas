@@ -157,7 +157,14 @@ export default function CategoryPage({ params }: { params: { slug: string } }) {
                   className="bg-white border border-black/5 hover:border-[#f59e0b]/30 transition-all group flex flex-col"
                 >
                   <div className="aspect-[4/3] bg-[#f1f5f0] overflow-hidden relative">
-                    <div className="w-full h-full flex items-center justify-center text-6xl opacity-30">🍽️</div>
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src={`https://cfls.b-cdn.net/mealprepideas/${recipe.slug}.webp`}
+                      alt={recipe.title}
+                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                      onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
+                    />
+                    <div className="absolute inset-0 flex items-center justify-center text-6xl opacity-20 pointer-events-none">🍽️</div>
                     <div className="absolute top-4 left-4 flex flex-wrap gap-1">
                       {allergens.map((a) => (
                         <span key={a} className="bg-[#1a1a1a]/80 backdrop-blur-md text-[10px] text-white px-2 py-1 font-black">{a}</span>

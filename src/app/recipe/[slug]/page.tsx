@@ -109,6 +109,20 @@ export default function RecipePage() {
         </div>
       </div>
 
+      {/* Hero Image */}
+      <div className="max-w-7xl mx-auto px-6 -mt-4 mb-0">
+        <div className="aspect-[21/9] bg-[#f1f5f0] overflow-hidden relative">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={`https://cfls.b-cdn.net/mealprepideas/${slug}.webp`}
+            alt={recipe.title}
+            className="w-full h-full object-cover"
+            onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
+          />
+          <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent pointer-events-none" />
+        </div>
+      </div>
+
       {/* Stats Bar */}
       {recipeNutrition && (
         <div className="bg-[#f1f5f0] border-b border-black/5">

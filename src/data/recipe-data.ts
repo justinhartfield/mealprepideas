@@ -316,6 +316,159 @@ const INGREDIENT_DB: Record<string, IngredientEntry> = {
     name: "SmartPop Popcorn",
     macrosPer100g: { calories: 400, protein: 11.4, totalFat: 11.4, saturatedFat: 2.9, cholesterol: 0, sodium: 571, totalCarbs: 68.6, dietaryFiber: 14.3, totalSugars: 0, iron: 2.0, calcium: 10, potassium: 200, vitaminD: 0 },
   },
+  "chicken-breast-boneless-and-skinless": {
+    name: "Chicken Breast (boneless, skinless)",
+    macrosPer100g: { calories: 120, protein: 22.5, totalFat: 2.6, saturatedFat: 0.6, cholesterol: 73, sodium: 45, totalCarbs: 0, dietaryFiber: 0, totalSugars: 0, iron: 0.4, calcium: 5, potassium: 370, vitaminD: 0.1 },
+  },
+  "low-carb-high-fiber-certified-gluten-free-tortillas": {
+    name: "GF Low-Carb Tortillas",
+    macrosPer100g: { calories: 200, protein: 8, totalFat: 5, saturatedFat: 1, cholesterol: 0, sodium: 500, totalCarbs: 30, dietaryFiber: 15, totalSugars: 1, iron: 2, calcium: 100, potassium: 80, vitaminD: 0 },
+    substitutes: ["certified-gluten-free-bread"],
+  },
+  "certified-gluten-free-tortillas": {
+    name: "Certified GF Tortillas",
+    macrosPer100g: { calories: 220, protein: 4, totalFat: 5, saturatedFat: 1.5, cholesterol: 0, sodium: 450, totalCarbs: 38, dietaryFiber: 3, totalSugars: 2, iron: 2, calcium: 80, potassium: 60, vitaminD: 0 },
+  },
+  "lean-ground-turkey-or-beef-raw": {
+    name: "Lean Ground Turkey/Beef",
+    macrosPer100g: { calories: 150, protein: 20, totalFat: 7, saturatedFat: 2, cholesterol: 70, sodium: 65, totalCarbs: 0, dietaryFiber: 0, totalSugars: 0, iron: 2, calcium: 10, potassium: 300, vitaminD: 0 },
+  },
+  "lean-deli-ham-diced": {
+    name: "Lean Deli Ham",
+    macrosPer100g: { calories: 120, protein: 18, totalFat: 4, saturatedFat: 1.3, cholesterol: 50, sodium: 1100, totalCarbs: 2, dietaryFiber: 0, totalSugars: 1, iron: 0.7, calcium: 10, potassium: 250, vitaminD: 0 },
+  },
+  "ham-diced": {
+    name: "Ham (diced)",
+    macrosPer100g: { calories: 120, protein: 18, totalFat: 4, saturatedFat: 1.3, cholesterol: 50, sodium: 1100, totalCarbs: 2, dietaryFiber: 0, totalSugars: 1, iron: 0.7, calcium: 10, potassium: 250, vitaminD: 0 },
+  },
+  "tomato-diced": {
+    name: "Tomato (diced)",
+    macrosPer100g: { calories: 18, protein: 0.9, totalFat: 0.2, saturatedFat: 0, cholesterol: 0, sodium: 5, totalCarbs: 3.9, dietaryFiber: 1.2, totalSugars: 2.6, iron: 0.3, calcium: 10, potassium: 237, vitaminD: 0 },
+  },
+  "tomato": {
+    name: "Tomato",
+    macrosPer100g: { calories: 18, protein: 0.9, totalFat: 0.2, saturatedFat: 0, cholesterol: 0, sodium: 5, totalCarbs: 3.9, dietaryFiber: 1.2, totalSugars: 2.6, iron: 0.3, calcium: 10, potassium: 237, vitaminD: 0 },
+  },
+  "sliced-tomato": {
+    name: "Sliced Tomato",
+    macrosPer100g: { calories: 18, protein: 0.9, totalFat: 0.2, saturatedFat: 0, cholesterol: 0, sodium: 5, totalCarbs: 3.9, dietaryFiber: 1.2, totalSugars: 2.6, iron: 0.3, calcium: 10, potassium: 237, vitaminD: 0 },
+  },
+  "yellow-onion": {
+    name: "Yellow Onion",
+    macrosPer100g: { calories: 40, protein: 1.1, totalFat: 0.1, saturatedFat: 0, cholesterol: 0, sodium: 4, totalCarbs: 9.3, dietaryFiber: 1.7, totalSugars: 4.2, iron: 0.2, calcium: 23, potassium: 146, vitaminD: 0 },
+  },
+  "yellow-onion-diced": {
+    name: "Yellow Onion (diced)",
+    macrosPer100g: { calories: 40, protein: 1.1, totalFat: 0.1, saturatedFat: 0, cholesterol: 0, sodium: 4, totalCarbs: 9.3, dietaryFiber: 1.7, totalSugars: 4.2, iron: 0.2, calcium: 23, potassium: 146, vitaminD: 0 },
+  },
+  "chopped-onion": {
+    name: "Chopped Onion",
+    macrosPer100g: { calories: 40, protein: 1.1, totalFat: 0.1, saturatedFat: 0, cholesterol: 0, sodium: 4, totalCarbs: 9.3, dietaryFiber: 1.7, totalSugars: 4.2, iron: 0.2, calcium: 23, potassium: 146, vitaminD: 0 },
+  },
+  "spinach": {
+    name: "Fresh Spinach",
+    macrosPer100g: { calories: 23, protein: 2.9, totalFat: 0.4, saturatedFat: 0.1, cholesterol: 0, sodium: 79, totalCarbs: 3.6, dietaryFiber: 2.2, totalSugars: 0.4, iron: 2.7, calcium: 99, potassium: 558, vitaminD: 0 },
+  },
+  "fresh-spinach": {
+    name: "Fresh Spinach",
+    macrosPer100g: { calories: 23, protein: 2.9, totalFat: 0.4, saturatedFat: 0.1, cholesterol: 0, sodium: 79, totalCarbs: 3.6, dietaryFiber: 2.2, totalSugars: 0.4, iron: 2.7, calcium: 99, potassium: 558, vitaminD: 0 },
+  },
+  "spinach-leaves": {
+    name: "Spinach Leaves",
+    macrosPer100g: { calories: 23, protein: 2.9, totalFat: 0.4, saturatedFat: 0.1, cholesterol: 0, sodium: 79, totalCarbs: 3.6, dietaryFiber: 2.2, totalSugars: 0.4, iron: 2.7, calcium: 99, potassium: 558, vitaminD: 0 },
+  },
+  "red-bell-pepper": {
+    name: "Red Bell Pepper",
+    macrosPer100g: { calories: 31, protein: 1, totalFat: 0.3, saturatedFat: 0, cholesterol: 0, sodium: 4, totalCarbs: 6, dietaryFiber: 2.1, totalSugars: 4.2, iron: 0.4, calcium: 7, potassium: 211, vitaminD: 0 },
+  },
+  "mushrooms": {
+    name: "Button Mushrooms",
+    macrosPer100g: { calories: 22, protein: 3.1, totalFat: 0.3, saturatedFat: 0, cholesterol: 0, sodium: 5, totalCarbs: 3.3, dietaryFiber: 1, totalSugars: 2, iron: 0.5, calcium: 3, potassium: 318, vitaminD: 0.2 },
+  },
+  "button-mushrooms-sliced": {
+    name: "Sliced Mushrooms",
+    macrosPer100g: { calories: 22, protein: 3.1, totalFat: 0.3, saturatedFat: 0, cholesterol: 0, sodium: 5, totalCarbs: 3.3, dietaryFiber: 1, totalSugars: 2, iron: 0.5, calcium: 3, potassium: 318, vitaminD: 0.2 },
+  },
+  "salsa": {
+    name: "Salsa",
+    macrosPer100g: { calories: 36, protein: 1.5, totalFat: 0.2, saturatedFat: 0, cholesterol: 0, sodium: 600, totalCarbs: 7, dietaryFiber: 1.5, totalSugars: 4, iron: 0.5, calcium: 20, potassium: 200, vitaminD: 0 },
+  },
+  "pasta-sauce": {
+    name: "Pasta Sauce",
+    macrosPer100g: { calories: 50, protein: 1.5, totalFat: 1.5, saturatedFat: 0.2, cholesterol: 0, sodium: 400, totalCarbs: 8, dietaryFiber: 2, totalSugars: 5, iron: 0.8, calcium: 20, potassium: 300, vitaminD: 0 },
+  },
+  "salmon-filet": {
+    name: "Salmon Fillet (raw)",
+    macrosPer100g: { calories: 208, protein: 20, totalFat: 13.4, saturatedFat: 3.1, cholesterol: 55, sodium: 59, totalCarbs: 0, dietaryFiber: 0, totalSugars: 0, iron: 0.3, calcium: 12, potassium: 363, vitaminD: 11 },
+  },
+  "tilapia-filet-raw": {
+    name: "Tilapia (raw)",
+    macrosPer100g: { calories: 96, protein: 20.1, totalFat: 1.7, saturatedFat: 0.6, cholesterol: 50, sodium: 52, totalCarbs: 0, dietaryFiber: 0, totalSugars: 0, iron: 0.6, calcium: 10, potassium: 302, vitaminD: 3.1 },
+  },
+  "shrimp-peeled-and-deveined-raw": {
+    name: "Shrimp (raw)",
+    macrosPer100g: { calories: 85, protein: 20.1, totalFat: 0.5, saturatedFat: 0.1, cholesterol: 161, sodium: 119, totalCarbs: 0.2, dietaryFiber: 0, totalSugars: 0, iron: 0.5, calcium: 64, potassium: 113, vitaminD: 0 },
+  },
+  "pork-tenderloin-raw": {
+    name: "Pork Tenderloin (raw)",
+    macrosPer100g: { calories: 120, protein: 21, totalFat: 3.5, saturatedFat: 1.2, cholesterol: 66, sodium: 48, totalCarbs: 0, dietaryFiber: 0, totalSugars: 0, iron: 1, calcium: 5, potassium: 382, vitaminD: 0.4 },
+  },
+  "gluten-free-lasagna-noodles": {
+    name: "Gluten-Free Lasagna Noodles",
+    macrosPer100g: { calories: 350, protein: 7, totalFat: 1.5, saturatedFat: 0.3, cholesterol: 0, sodium: 10, totalCarbs: 77, dietaryFiber: 3, totalSugars: 2, iron: 2, calcium: 20, potassium: 100, vitaminD: 0 },
+  },
+  "zucchini": {
+    name: "Zucchini",
+    macrosPer100g: { calories: 17, protein: 1.2, totalFat: 0.3, saturatedFat: 0.1, cholesterol: 0, sodium: 8, totalCarbs: 3.1, dietaryFiber: 1, totalSugars: 2.5, iron: 0.4, calcium: 16, potassium: 261, vitaminD: 0 },
+  },
+  "asparagus-spears": {
+    name: "Asparagus",
+    macrosPer100g: { calories: 20, protein: 2.2, totalFat: 0.1, saturatedFat: 0, cholesterol: 0, sodium: 2, totalCarbs: 3.9, dietaryFiber: 2.1, totalSugars: 1.9, iron: 2.1, calcium: 24, potassium: 202, vitaminD: 0 },
+  },
+  "carrots-shredded": {
+    name: "Carrots (shredded)",
+    macrosPer100g: { calories: 41, protein: 0.9, totalFat: 0.2, saturatedFat: 0, cholesterol: 0, sodium: 69, totalCarbs: 10, dietaryFiber: 2.8, totalSugars: 4.7, iron: 0.3, calcium: 33, potassium: 320, vitaminD: 0 },
+  },
+  "potatoes": {
+    name: "Potatoes",
+    macrosPer100g: { calories: 77, protein: 2, totalFat: 0.1, saturatedFat: 0, cholesterol: 0, sodium: 6, totalCarbs: 17, dietaryFiber: 2.2, totalSugars: 0.8, iron: 0.8, calcium: 12, potassium: 421, vitaminD: 0 },
+  },
+  "sweet-potato": {
+    name: "Sweet Potato",
+    macrosPer100g: { calories: 86, protein: 1.6, totalFat: 0.1, saturatedFat: 0, cholesterol: 0, sodium: 55, totalCarbs: 20, dietaryFiber: 3, totalSugars: 4.2, iron: 0.6, calcium: 30, potassium: 337, vitaminD: 0 },
+  },
+  "panko-certified-gluten-free-breadcrumbs": {
+    name: "GF Panko Breadcrumbs",
+    macrosPer100g: { calories: 395, protein: 8, totalFat: 4, saturatedFat: 0.7, cholesterol: 0, sodium: 600, totalCarbs: 78, dietaryFiber: 3, totalSugars: 5, iron: 4, calcium: 50, potassium: 100, vitaminD: 0 },
+  },
+  "chicken-broth": {
+    name: "Chicken Broth",
+    macrosPer100g: { calories: 7, protein: 1.1, totalFat: 0.2, saturatedFat: 0.1, cholesterol: 0, sodium: 343, totalCarbs: 0.2, dietaryFiber: 0, totalSugars: 0.2, iron: 0, calcium: 4, potassium: 24, vitaminD: 0 },
+  },
+  "beef-broth": {
+    name: "Beef Broth",
+    macrosPer100g: { calories: 8, protein: 1.1, totalFat: 0.2, saturatedFat: 0.1, cholesterol: 0, sodium: 340, totalCarbs: 0.3, dietaryFiber: 0, totalSugars: 0.3, iron: 0, calcium: 4, potassium: 50, vitaminD: 0 },
+  },
+  "tomato-paste": {
+    name: "Tomato Paste",
+    macrosPer100g: { calories: 82, protein: 4.3, totalFat: 0.5, saturatedFat: 0.1, cholesterol: 0, sodium: 98, totalCarbs: 19, dietaryFiber: 4.1, totalSugars: 12, iron: 3.4, calcium: 36, potassium: 1014, vitaminD: 0 },
+  },
+  "corn-starch": {
+    name: "Corn Starch",
+    macrosPer100g: { calories: 381, protein: 0.3, totalFat: 0.1, saturatedFat: 0, cholesterol: 0, sodium: 9, totalCarbs: 91, dietaryFiber: 0.9, totalSugars: 0, iron: 0.5, calcium: 2, potassium: 3, vitaminD: 0 },
+  },
+  "canned-tuna": {
+    name: "Canned Tuna (in water)",
+    macrosPer100g: { calories: 86, protein: 19, totalFat: 0.8, saturatedFat: 0.2, cholesterol: 42, sodium: 290, totalCarbs: 0, dietaryFiber: 0, totalSugars: 0, iron: 1, calcium: 11, potassium: 207, vitaminD: 1.7 },
+  },
+  "smoked-salmon": {
+    name: "Smoked Salmon",
+    macrosPer100g: { calories: 117, protein: 18.3, totalFat: 4.3, saturatedFat: 0.9, cholesterol: 23, sodium: 784, totalCarbs: 0, dietaryFiber: 0, totalSugars: 0, iron: 0.9, calcium: 11, potassium: 175, vitaminD: 11.3 },
+  },
+  "deli-meat": {
+    name: "Lean Deli Meat",
+    macrosPer100g: { calories: 100, protein: 18, totalFat: 2, saturatedFat: 0.7, cholesterol: 40, sodium: 900, totalCarbs: 2, dietaryFiber: 0, totalSugars: 1, iron: 0.7, calcium: 10, potassium: 200, vitaminD: 0 },
+  },
   "rice-cakes": {
     name: "Rice Cakes",
     macrosPer100g: { calories: 387, protein: 8.0, totalFat: 2.8, saturatedFat: 0.6, cholesterol: 0, sodium: 285, totalCarbs: 81.5, dietaryFiber: 3.4, totalSugars: 0, iron: 0.6, calcium: 3, potassium: 120, vitaminD: 0 },
@@ -485,7 +638,31 @@ export function getAllRecipes(): Recipe[] {
 }
 
 export function getIngredientDB(): Record<string, IngredientEntry> {
-  return INGREDIENT_DB;
+  return new Proxy(INGREDIENT_DB, {
+    get(target, prop: string) {
+      // Exact match first
+      if (prop in target) return target[prop];
+      // Fuzzy: check if any DB key is a substring of the requested key, or vice versa
+      for (const key of Object.keys(target)) {
+        if (prop.includes(key) || key.includes(prop)) return target[key];
+      }
+      // Keyword matching: try matching the core ingredient name
+      const keywords = prop.split('-').filter(w => w.length > 3);
+      for (const key of Object.keys(target)) {
+        const keyWords = key.split('-');
+        const matches = keywords.filter(kw => keyWords.some(kk => kk.includes(kw) || kw.includes(kk)));
+        if (matches.length >= 2) return target[key];
+      }
+      return undefined;
+    },
+    has(target, prop: string) {
+      if (prop in target) return true;
+      for (const key of Object.keys(target)) {
+        if (prop.includes(key) || key.includes(prop)) return true;
+      }
+      return false;
+    }
+  });
 }
 
 export function getRecipesByCategory(category: string): Recipe[] {
