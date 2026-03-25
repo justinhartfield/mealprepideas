@@ -517,14 +517,39 @@ function getSwapInfo(ingredientName: string): { isSwappable: boolean; substituti
   return { isSwappable: false };
 }
 
-/** Parse yield string to a number (e.g. "5 PANCAKES" -> 5, "1 SERVING" -> 1) */
+/** Parse yield string to number of servings */
 function parseYield(yieldStr: string): number {
-  // Try to extract leading number
-  const match = yieldStr.match(/^(\d+)/);
-  if (match) {
-    return parseInt(match[1], 10);
+  const s = yieldStr.toLowerCase();
+
+  // "1 batch (~4 large servings)" or "1 batch (8 large, 12 medium...)" → use first number in parens
+  if (s.includes('batch')) {
+    const parenMatch = s.match(/\((\d+)/);
+    if (parenMatch) return parseInt(parenMatch[1], 10);
+    return 4; // default batch = 4 servings
   }
-  // "varies" or other non-numeric
+
+  // "4 servings", "6 servings" → extract number before "serving"
+  const servingMatch = s.match(/(\d+)\s*serving/);
+  if (servingMatch) return parseInt(servingMatch[1], 10);
+
+  // "10 muffins", "6 pancakes", "5 pancakes", "3 rice cakes", "2 crepes", "23 small balls"
+  const unitMatch = s.match(/(\d+)\s*(muffin|pancake|crepe|cookie|bar|ball|roll|rice cake|hot dog|sandwich|omelet|slice)/i);
+  if (unitMatch) return parseInt(unitMatch[1], 10);
+
+  // "1 sandwich" = 1, "1 omelette" = 1
+  const singleMatch = s.match(/^1\s+(sandwich|omelet|hot dog|serving|small serving|rice cake)/i);
+  if (singleMatch) return 1;
+
+  // "2 roll-ups (1 serving)" → 1 serving
+  if (s.includes('(1 serving)')) return 1;
+
+  // "varies" → default 4
+  if (s.includes('varies')) return 4;
+
+  // Fallback: extract leading number
+  const leadingNum = s.match(/^(\d+)/);
+  if (leadingNum) return parseInt(leadingNum[1], 10);
+
   return 1;
 }
 
