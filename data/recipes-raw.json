@@ -9423,10 +9423,83 @@
     "title": "Pumpkin Protein Squares",
     "category": "Treats",
     "subcategory": "Cookies",
-    "yield": "1 batch (varies)",
+    "yield": "1 batch (8 squares)",
     "prepTime": "10 min",
     "cookTime": "45 min",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "name": "pumpkin purée",
+        "amountG": 250,
+        "displayUS": "1 cup",
+        "category": "wet"
+      },
+      {
+        "name": "dairy-free, soy-free vanilla protein powder",
+        "amountG": 66,
+        "displayUS": "2 scoops",
+        "category": "dry"
+      },
+      {
+        "name": "certified gluten-free oat flour",
+        "amountG": 60,
+        "displayUS": "1/2 cup",
+        "category": "dry"
+      },
+      {
+        "name": "egg whites",
+        "amountG": 120,
+        "displayUS": "1/2 cup",
+        "category": "wet"
+      },
+      {
+        "name": "Allulose/Monkfruit Blend",
+        "amountG": 8,
+        "displayUS": "4 packets",
+        "category": "dry"
+      },
+      {
+        "name": "ground cinnamon",
+        "amountG": 4,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "ground nutmeg",
+        "amountG": 1,
+        "displayUS": "1/4 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "baking powder",
+        "amountG": 4,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "sugar-free chocolate chips",
+        "amountG": 30,
+        "displayUS": "2 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": 1,
+        "displayUS": "for pan",
+        "category": "wet"
+      },
+      {
+        "name": "ground flaxseed (milled)",
+        "amountG": 7,
+        "displayUS": "1 tbsp",
+        "category": "dry"
+      }
+    ],
     "instructions": [
       {
         "step": 1,
@@ -11482,10 +11555,53 @@
     "title": "Chocolate Protein Ice Cream Pudding",
     "category": "Desserts",
     "subcategory": "Pudding",
-    "yield": "1 serving",
+    "yield": "2 servings",
     "prepTime": "5 min",
     "cookTime": "1 min",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "name": "dairy-free, soy-free chocolate protein powder",
+        "amountG": 66,
+        "displayUS": "2 scoops",
+        "category": "dry"
+      },
+      {
+        "name": "thick unsweetened dairy-free yogurt",
+        "amountG": 250,
+        "displayUS": "1 cup",
+        "category": "wet"
+      },
+      {
+        "name": "raw cacao powder (higher antioxidants)",
+        "amountG": 10,
+        "displayUS": "2 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "Allulose/Monkfruit Blend",
+        "amountG": 4,
+        "displayUS": "2 packets",
+        "category": "dry"
+      },
+      {
+        "name": "vitamin D-fortified unsweetened oat milk",
+        "amountG": 60,
+        "displayUS": "1/4 cup",
+        "category": "wet"
+      },
+      {
+        "name": "vanilla extract",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 1,
+        "displayUS": "pinch",
+        "category": "dry"
+      }
+    ],
     "instructions": [
       {
         "step": 1,
@@ -11933,10 +12049,77 @@
     "title": "Chocolate Protein Lava Cake (Mega Batch)",
     "category": "Desserts",
     "subcategory": "Cakes",
-    "yield": "1 mega batch (varies)",
+    "yield": "6 servings",
     "prepTime": "5 min",
     "cookTime": "1 min",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "name": "dairy-free, soy-free chocolate protein powder",
+        "amountG": 132,
+        "displayUS": "4 scoops",
+        "category": "dry"
+      },
+      {
+        "name": "raw cacao powder (higher antioxidants)",
+        "amountG": 30,
+        "displayUS": "1/4 cup",
+        "category": "dry"
+      },
+      {
+        "name": "certified gluten-free oat flour",
+        "amountG": 60,
+        "displayUS": "1/2 cup",
+        "category": "dry"
+      },
+      {
+        "name": "egg whites",
+        "amountG": 240,
+        "displayUS": "1 cup",
+        "category": "wet"
+      },
+      {
+        "name": "thick unsweetened dairy-free yogurt",
+        "amountG": 125,
+        "displayUS": "1/2 cup",
+        "category": "wet"
+      },
+      {
+        "name": "Allulose/Monkfruit Blend",
+        "amountG": 12,
+        "displayUS": "6 packets",
+        "category": "dry"
+      },
+      {
+        "name": "baking powder",
+        "amountG": 4,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "vanilla extract",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "sugar-free chocolate chips",
+        "amountG": 45,
+        "displayUS": "3 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "cooking spray",
+        "amountG": 1,
+        "displayUS": "for pan",
+        "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 2,
+        "displayUS": "pinch",
+        "category": "dry"
+      }
+    ],
     "instructions": [
       {
         "step": 1,
@@ -12426,63 +12609,51 @@
     "title": "Chocolate Fudge Brownie Protein Ice Cream",
     "category": "Protein Shakes & Ice Cream",
     "subcategory": "Protein Shakes & Ice Cream",
-    "yield": "1 large or 2 small servings",
+    "yield": "2 servings",
     "prepTime": "10 min",
     "cookTime": "5 min",
     "ingredients": [
       {
-        "name": "certified gluten-free high-fiber cereal bar Brownie bar",
-        "amountG": null,
-        "displayUS": "1 bar",
+        "name": "dairy-free, soy-free chocolate protein powder",
+        "amountG": 66,
+        "displayUS": "2 scoops",
         "category": "dry"
       },
       {
-        "name": "water",
-        "amountG": null,
-        "displayUS": "as needed",
+        "name": "frozen banana",
+        "amountG": 220,
+        "displayUS": "2 medium",
+        "category": "wet"
+      },
+      {
+        "name": "raw cacao powder (higher antioxidants)",
+        "amountG": 15,
+        "displayUS": "3 tbsp",
+        "category": "dry"
+      },
+      {
+        "name": "vitamin D-fortified unsweetened oat milk",
+        "amountG": 120,
+        "displayUS": "1/2 cup",
+        "category": "wet"
+      },
+      {
+        "name": "Allulose/Monkfruit Blend",
+        "amountG": 4,
+        "displayUS": "2 packets",
+        "category": "dry"
+      },
+      {
+        "name": "vanilla extract",
+        "amountG": 5,
+        "displayUS": "1 tsp",
         "category": "wet"
       },
       {
         "name": "iodized fine sea salt",
-        "amountG": null,
+        "amountG": 1,
         "displayUS": "pinch",
         "category": "dry"
-      },
-      {
-        "name": "guar gum",
-        "amountG": null,
-        "displayUS": "to taste",
-        "category": "dry"
-      },
-      {
-        "name": "Allulose/Monkfruit Blend",
-        "amountG": null,
-        "displayUS": "to taste",
-        "category": "dry"
-      },
-      {
-        "name": "fudge dairy-free, soy-free protein powder",
-        "amountG": null,
-        "displayUS": "scoops to taste",
-        "category": "dry"
-      },
-      {
-        "name": "raw cacao powder (higher antioxidants)",
-        "amountG": null,
-        "displayUS": "to taste",
-        "category": "dry"
-      },
-      {
-        "name": "ice",
-        "amountG": null,
-        "displayUS": "as needed",
-        "category": "wet"
-      },
-      {
-        "name": "fresh ginger (anti-inflammatory)",
-        "amountG": 2,
-        "displayUS": "1/4 tsp grated",
-        "category": "wet"
       }
     ],
     "instructions": [
@@ -12513,69 +12684,51 @@
     "title": "Chocolate PB Protein Ice Cream",
     "category": "Protein Shakes & Ice Cream",
     "subcategory": "Protein Shakes & Ice Cream",
-    "yield": "1 serving",
+    "yield": "2 servings",
     "prepTime": "5 min",
     "cookTime": "1 min",
     "ingredients": [
       {
-        "name": "water",
-        "amountG": null,
-        "displayUS": "as needed",
+        "name": "dairy-free, soy-free chocolate protein powder",
+        "amountG": 66,
+        "displayUS": "2 scoops",
+        "category": "dry"
+      },
+      {
+        "name": "frozen banana",
+        "amountG": 220,
+        "displayUS": "2 medium",
         "category": "wet"
       },
       {
-        "name": "iodized fine sea salt",
-        "amountG": null,
-        "displayUS": "pinch",
+        "name": "sunflower seed butter powder",
+        "amountG": 20,
+        "displayUS": "3 tbsp",
         "category": "dry"
       },
       {
-        "name": "guar gum",
-        "amountG": null,
-        "displayUS": "to taste",
+        "name": "raw cacao powder (higher antioxidants)",
+        "amountG": 10,
+        "displayUS": "2 tbsp",
         "category": "dry"
       },
       {
-        "name": "chocolate sunflower seed butter dairy-free, soy-free protein powder",
-        "amountG": null,
-        "displayUS": "scoops to taste",
-        "category": "dry"
-      },
-      {
-        "name": "ice",
-        "amountG": null,
-        "displayUS": "as needed",
+        "name": "vitamin D-fortified unsweetened oat milk",
+        "amountG": 120,
+        "displayUS": "1/2 cup",
         "category": "wet"
       },
       {
         "name": "Allulose/Monkfruit Blend",
-        "amountG": null,
-        "displayUS": "to taste",
+        "amountG": 4,
+        "displayUS": "2 packets",
         "category": "dry"
       },
       {
-        "name": "sunflower seed butter powder",
-        "amountG": null,
-        "displayUS": "for drizzle (optional)",
+        "name": "iodized fine sea salt",
+        "amountG": 1,
+        "displayUS": "pinch",
         "category": "dry"
-      },
-      {
-        "name": "Walden Farms low-calorie syrup",
-        "amountG": null,
-        "displayUS": "for topping (optional)",
-        "category": "wet"
-      },
-      {
-        "name": "acacia fiber powder (prebiotic)",
-        "amountG": 6,
-        "displayUS": "1 tbsp",
-        "category": "dry"
-      },
-      {
-        "name": "fresh ginger (anti-inflammatory)",
-        "amountG": 2,
-        "displayUS": "1/4 tsp grated",
-        "category": "wet"
       }
     ],
     "instructions": [
@@ -12727,81 +12880,57 @@
     "title": "Coffee Toffee Bar Crunch Protein Ice Cream",
     "category": "Protein Shakes & Ice Cream",
     "subcategory": "Protein Shakes & Ice Cream",
-    "yield": "1 large or 2 small servings",
+    "yield": "2 servings",
     "prepTime": "10 min",
     "cookTime": "5 min",
     "ingredients": [
       {
-        "name": "compliant sugar-free syrup",
-        "amountG": null,
-        "displayUS": "as needed",
-        "category": "wet"
-      },
-      {
-        "name": "iodized fine sea salt",
-        "amountG": null,
-        "displayUS": "pinch",
+        "name": "dairy-free, soy-free vanilla protein powder",
+        "amountG": 66,
+        "displayUS": "2 scoops",
         "category": "dry"
       },
       {
-        "name": "guar gum",
-        "amountG": null,
-        "displayUS": "to taste",
+        "name": "frozen banana",
+        "amountG": 220,
+        "displayUS": "2 medium",
+        "category": "wet"
+      },
+      {
+        "name": "instant coffee or espresso powder",
+        "amountG": 4,
+        "displayUS": "1 tsp",
+        "category": "dry"
+      },
+      {
+        "name": "vitamin D-fortified unsweetened oat milk",
+        "amountG": 120,
+        "displayUS": "1/2 cup",
+        "category": "wet"
+      },
+      {
+        "name": "Walden Farms caramel syrup",
+        "amountG": 30,
+        "displayUS": "2 tbsp",
+        "category": "wet"
+      },
+      {
+        "name": "sugar-free toffee bits",
+        "amountG": 20,
+        "displayUS": "2 tbsp",
         "category": "dry"
       },
       {
         "name": "Allulose/Monkfruit Blend",
-        "amountG": null,
-        "displayUS": "to taste",
+        "amountG": 4,
+        "displayUS": "2 packets",
         "category": "dry"
       },
       {
-        "name": "dairy-free, soy-free vanilla protein powder",
-        "amountG": null,
-        "displayUS": "scoops to taste",
+        "name": "iodized fine sea salt",
+        "amountG": 1,
+        "displayUS": "pinch",
         "category": "dry"
-      },
-      {
-        "name": "raw cacao powder (higher antioxidants)",
-        "amountG": null,
-        "displayUS": "to taste",
-        "category": "dry"
-      },
-      {
-        "name": "medium instant coffee",
-        "amountG": null,
-        "displayUS": "to taste",
-        "category": "dry"
-      },
-      {
-        "name": "ice",
-        "amountG": null,
-        "displayUS": "as needed",
-        "category": "wet"
-      },
-      {
-        "name": "Heath Shell Topping syrup",
-        "amountG": null,
-        "displayUS": "for glaze",
-        "category": "wet"
-      },
-      {
-        "name": "Heath Toffee Bits",
-        "amountG": null,
-        "displayUS": "for topping",
-        "category": "dry"
-      },
-      {
-        "name": "acacia fiber powder (prebiotic)",
-        "amountG": 6,
-        "displayUS": "1 tbsp",
-        "category": "dry"
-      },
-      {
-        "name": "fresh ginger (anti-inflammatory)",
-        "amountG": 2,
-        "displayUS": "1/4 tsp grated",
-        "category": "wet"
       }
     ],
     "instructions": [
@@ -13094,10 +13223,53 @@
     "title": "Strawberry Protein Ice Cream",
     "category": "Protein Shakes & Ice Cream",
     "subcategory": "Protein Shakes & Ice Cream",
-    "yield": "1 serving",
+    "yield": "2 servings",
     "prepTime": "5 min",
     "cookTime": "1 min",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "name": "dairy-free, soy-free vanilla protein powder",
+        "amountG": 66,
+        "displayUS": "2 scoops",
+        "category": "dry"
+      },
+      {
+        "name": "frozen strawberries",
+        "amountG": 300,
+        "displayUS": "2 cups",
+        "category": "wet"
+      },
+      {
+        "name": "frozen banana",
+        "amountG": 110,
+        "displayUS": "1 medium",
+        "category": "wet"
+      },
+      {
+        "name": "vitamin D-fortified unsweetened oat milk",
+        "amountG": 120,
+        "displayUS": "1/2 cup",
+        "category": "wet"
+      },
+      {
+        "name": "Allulose/Monkfruit Blend",
+        "amountG": 4,
+        "displayUS": "2 packets",
+        "category": "dry"
+      },
+      {
+        "name": "vanilla extract",
+        "amountG": 5,
+        "displayUS": "1 tsp",
+        "category": "wet"
+      },
+      {
+        "name": "iodized fine sea salt",
+        "amountG": 1,
+        "displayUS": "pinch",
+        "category": "dry"
+      }
+    ],
     "instructions": [
       {
         "step": 1,
